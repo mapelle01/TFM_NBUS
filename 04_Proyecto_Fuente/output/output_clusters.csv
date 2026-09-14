@@ -1,0 +1,273 @@
+cod_municipio,nombre_municipio,year,poblacion_municipio,municipio_mapa,num_servicios_totales,num_dias_activos,servicios_medios_diarios,num_paradas_municipio,trips_unicos,tiene_parada,nivel_cobertura,cobertura_relativa,servicios_por_1000_hab,alta_frecuencia,cluster,perfil_cluster
+31006,Ablitas,2024,2669,Ablitas,6752,364,18.55,2,26,True,Baja cobertura,7.49,6.95,True,0,Servicio estándar
+31007,Adiós,2024,191,Adiós,1706,301,5.67,1,6,True,Baja cobertura,52.36,29.69,False,0,Servicio estándar
+31010,Altsasu/Alsasua,2024,7710,Altsasu,5721,364,15.72,1,47,True,Baja cobertura,1.3,2.04,True,0,Servicio estándar
+31018,Añorbe,2024,627,Añorbe,1706,301,5.67,1,6,True,Baja cobertura,15.95,9.04,False,0,Servicio estándar
+31025,Arakil,2024,999,Arakil,11368,364,31.23,16,24,True,Alta cobertura,160.16,31.26,True,2,Sobreservido
+31027,Arbizu,2024,1108,Arbizu,4064,364,11.16,2,35,True,Baja cobertura,18.05,10.07,True,0,Servicio estándar
+31032,Arguedas,2024,2303,Arguedas,4693,364,12.89,2,23,True,Baja cobertura,8.68,5.6,True,0,Servicio estándar
+31037,Arruazu,2024,122,Arruazu,2238,364,6.15,2,19,True,Baja cobertura,163.93,50.41,True,0,Servicio estándar
+31038,Artajona,2024,1774,Artajona,1957,301,6.5,2,11,True,Baja cobertura,11.27,3.66,True,0,Servicio estándar
+31044,Bakaiku,2024,340,Bakaiku,2489,364,6.84,2,20,True,Baja cobertura,58.82,20.12,True,0,Servicio estándar
+31045,Barásoain,2024,594,Barásoain,5174,364,14.21,2,39,True,Baja cobertura,33.67,23.92,True,0,Servicio estándar
+31048,Barillas,2024,238,Barillas,4142,364,11.38,2,14,True,Baja cobertura,84.03,47.82,True,0,Servicio estándar
+31051,Beire,2024,288,Beire,3213,364,8.83,2,18,True,Baja cobertura,69.44,30.66,True,0,Servicio estándar
+31053,Berbinzana,2024,674,Berbinzana,1957,301,6.5,2,11,True,Baja cobertura,29.67,9.64,True,0,Servicio estándar
+31056,Biurrun-Olcoz,2024,236,Biurrun-Olcoz,3412,301,11.34,2,6,True,Baja cobertura,84.75,48.05,False,0,Servicio estándar
+31057,Buñuel,2024,2315,Buñuel,11848,364,32.55,4,20,True,Alta cobertura,17.28,14.06,True,0,Servicio estándar
+31062,Cabanillas,2024,1376,Cabanillas,5673,364,15.59,2,19,True,Baja cobertura,14.53,11.33,True,0,Servicio estándar
+31064,Cadreita,2024,2197,Cadreita,17146,364,47.1,4,51,True,Alta cobertura,18.21,21.44,True,0,Servicio estándar
+31065,Caparroso,2024,2861,Caparroso,4129,364,11.34,2,21,True,Baja cobertura,6.99,3.96,True,0,Servicio estándar
+31067,Carcastillo,2024,2411,Carcastillo,6175,364,16.96,2,18,True,Baja cobertura,8.3,7.03,True,0,Servicio estándar
+31068,Cascante,2024,4131,Cascante,13504,364,37.1,3,26,True,Alta cobertura,7.26,8.98,True,0,Servicio estándar
+31070,Castejón,2024,4473,Castejón,4482,364,12.31,1,33,True,Baja cobertura,2.24,2.75,True,0,Servicio estándar
+31072,Cintruénigo,2024,8333,Cintruénigo,21246,364,58.37,4,52,True,Alta cobertura,4.8,7.0,True,0,Servicio estándar
+31073,Ziordia,2024,353,Ziordia,2684,364,7.37,4,20,True,Alta cobertura,113.31,20.88,True,0,Servicio estándar
+31077,Corella,2024,8712,Corella,7105,364,19.52,1,24,True,Baja cobertura,1.15,2.24,True,0,Servicio estándar
+31078,Cortes,2024,3160,Cortes,5924,364,16.27,2,20,True,Baja cobertura,6.33,5.15,True,0,Servicio estándar
+31084,Etxarri Aranatz,2024,2545,Etxarri Aranatz,4331,364,11.9,3,39,True,Alta cobertura,11.79,4.68,True,0,Servicio estándar
+31088,Noáin (Valle de Elorz)/Noain (Elortzibar),2024,8469,Noáin (Valle de Elorz),4556,364,12.52,2,24,True,Baja cobertura,2.36,1.48,True,0,Servicio estándar
+31089,Enériz/Eneritz,2024,327,Enériz,1706,301,5.67,2,6,True,Baja cobertura,61.16,17.34,False,0,Servicio estándar
+31091,Ergoiena,2024,382,Ergoiena,906,151,6.0,3,5,True,Alta cobertura,78.53,15.71,False,0,Servicio estándar
+31104,Falces,2024,2353,Falces,3966,364,10.9,1,21,True,Baja cobertura,4.25,4.63,True,0,Servicio estándar
+31105,Fitero,2024,2222,Fitero,18096,364,49.71,6,24,True,Alta cobertura,27.0,22.37,True,0,Servicio estándar
+31106,Fontellas,2024,1022,Fontellas,5673,364,15.59,1,19,True,Baja cobertura,9.78,15.25,True,0,Servicio estándar
+31107,Funes,2024,2558,Funes,3966,364,10.9,2,21,True,Baja cobertura,7.82,4.26,True,0,Servicio estándar
+31108,Fustiñana,2024,2451,Fustiñana,10342,364,28.41,2,19,True,Baja cobertura,8.16,11.59,True,0,Servicio estándar
+31114,Garínoain,2024,526,Garínoain,4576,364,12.57,2,27,True,Baja cobertura,38.02,23.9,True,0,Servicio estándar
+31123,Uharte Arakil,2024,791,Uharte Arakil,4064,364,11.16,2,35,True,Baja cobertura,25.28,14.11,True,0,Servicio estándar
+31127,Irañeta,2024,170,Irañeta,2238,364,6.15,1,19,True,Baja cobertura,58.82,36.18,True,0,Servicio estándar
+31130,Iturmendi,2024,432,Iturmendi,2238,364,6.15,2,19,True,Baja cobertura,46.3,14.24,True,0,Servicio estándar
+31138,Lakuntza,2024,1325,Lakuntza,4064,364,11.16,2,35,True,Baja cobertura,15.09,8.42,True,0,Servicio estándar
+31142,Larraga,2024,2133,Larraga,4410,301,14.65,4,19,True,Alta cobertura,18.75,6.87,True,0,Servicio estándar
+31150,Leoz/Leotz,2024,210,Leoz,7160,250,28.64,12,36,True,Alta cobertura,571.43,136.38,True,2,Sobreservido
+31152,Lerín,2024,1783,Lerín,496,124,4.0,1,8,True,Baja cobertura,5.61,2.24,False,0,Servicio estándar
+31163,Marcilla,2024,2921,Marcilla,3966,364,10.9,2,21,True,Baja cobertura,6.85,3.73,True,0,Servicio estándar
+31164,Mélida,2024,732,Mélida,3213,364,8.83,1,18,True,Baja cobertura,13.66,12.06,True,0,Servicio estándar
+31167,Mendigorria,2024,1218,Mendigorria,1957,301,6.5,1,11,True,Baja cobertura,8.21,5.34,True,0,Servicio estándar
+31169,Milagro,2024,3639,Milagro,4783,364,13.14,2,35,True,Baja cobertura,5.5,3.61,True,0,Servicio estándar
+31171,Miranda de Arga,2024,903,Miranda de Arga,1957,301,6.5,1,11,True,Baja cobertura,11.07,7.2,True,0,Servicio estándar
+31173,Monteagudo,2024,1085,Monteagudo,4142,364,11.38,2,14,True,Baja cobertura,18.43,10.49,True,0,Servicio estándar
+31176,Murchante,2024,4239,Murchante,6752,364,18.55,1,26,True,Baja cobertura,2.36,4.38,True,0,Servicio estándar
+31178,Murillo el Cuende,2024,712,Murillo el Cuende,10392,364,28.55,3,19,True,Alta cobertura,42.13,40.1,True,0,Servicio estándar
+31179,Murillo el Fruto,2024,664,Murillo el Fruto,3213,364,8.83,2,18,True,Baja cobertura,30.12,13.3,True,0,Servicio estándar
+31183,Obanos,2024,910,Obanos,1706,301,5.67,1,6,True,Baja cobertura,10.99,6.23,False,0,Servicio estándar
+31189,Olazti/Olazagutía,2024,1464,Olazti,4064,364,11.16,1,35,True,Baja cobertura,6.83,7.62,True,0,Servicio estándar
+31191,Olite/Erriberri,2024,4087,Olite,23004,364,63.2,4,73,True,Alta cobertura,9.79,15.46,True,0,Servicio estándar
+31192,Olóriz/Oloritz,2024,215,Olóriz,7556,364,20.76,7,36,True,Alta cobertura,325.58,96.56,True,2,Sobreservido
+31197,Orísoain,2024,72,Orísoain,596,149,4.0,1,12,True,Baja cobertura,138.89,55.56,True,0,Servicio estándar
+31201,Pamplona/Iruña,2024,207777,Pamplona,44286,364,121.66,8,174,True,Alta cobertura,0.39,0.59,True,3,Capital / Hub principal
+31202,Peralta/Azkoien,2024,6003,Peralta,7932,364,21.79,4,21,True,Alta cobertura,6.66,3.63,True,0,Servicio estándar
+31205,Pitillas,2024,529,Pitillas,3213,364,8.83,2,18,True,Baja cobertura,37.81,16.69,True,0,Servicio estándar
+31206,Puente la Reina/Gares,2024,2930,Puente la Reina,1957,301,6.5,1,7,True,Baja cobertura,3.41,2.22,False,0,Servicio estándar
+31207,Pueyo/Puiu,2024,361,Pueyo,4782,364,13.14,1,31,True,Baja cobertura,27.7,36.4,True,0,Servicio estándar
+31208,Ribaforada,2024,3701,Ribaforada,5924,364,16.27,1,20,True,Baja cobertura,2.7,4.4,True,0,Servicio estándar
+31217,San Martín de Unx,2024,364,San Martín de Unx,1806,301,6.0,2,6,True,Baja cobertura,54.95,16.48,False,0,Servicio estándar
+31220,Santacara,2024,858,Santacara,3213,364,8.83,2,18,True,Baja cobertura,23.31,10.29,True,0,Servicio estándar
+31227,Tafalla,2024,10778,Tafalla,86070,364,236.46,6,251,True,Alta cobertura,5.57,21.94,True,1,Hub secundario
+31228,Tiebas-Muruarte de Reta,2024,660,Tiebas-Muruarte de Reta,12564,364,34.52,4,33,True,Alta cobertura,60.61,52.3,True,0,Servicio estándar
+31229,Tirapu,2024,51,Tirapu,1706,301,5.67,1,6,True,Baja cobertura,196.08,111.18,False,0,Servicio estándar
+31232,Tudela,2024,38685,Tudela,52755,364,144.93,3,173,True,Alta cobertura,0.78,3.75,True,1,Hub secundario
+31233,Tulebras,2024,155,Tulebras,4142,364,11.38,2,14,True,Baja cobertura,129.03,73.42,True,0,Servicio estándar
+31234,Ucar,2024,190,Ucar,1706,301,5.67,1,6,True,Baja cobertura,52.63,29.84,False,0,Servicio estándar
+31235,Ujué/Uxue,2024,172,Ujué,1806,301,6.0,1,6,True,Baja cobertura,58.14,34.88,False,0,Servicio estándar
+31238,Unzué/Untzue,2024,165,Unzué,4556,364,12.52,1,24,True,Baja cobertura,60.61,75.88,True,0,Servicio estándar
+31240,Urdiain,2024,642,Urdiain,2238,364,6.15,2,19,True,Baja cobertura,31.15,9.58,True,0,Servicio estándar
+31249,Valtierra,2024,2464,Valtierra,14079,364,38.68,6,23,True,Alta cobertura,24.35,15.7,True,0,Servicio estándar
+31254,Villafranca,2024,3077,Villafranca,4693,364,12.89,1,23,True,Baja cobertura,3.25,4.19,True,0,Servicio estándar
+31904,Irurtzun,2024,2316,Irurtzun,5219,364,14.34,2,45,True,Baja cobertura,8.64,6.19,True,0,Servicio estándar
+31001,Abáigar,2024,86,Abáigar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31002,Abárzuza/Abartzuza,2024,518,Abárzuza/Abartzuza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31003,Abaurregaina/Abaurrea Alta,2024,119,Abaurregaina/Abaurrea Alta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31004,Abaurrepea/Abaurrea Baja,2024,29,Abaurrepea/Abaurrea Baja,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31005,Aberin,2024,383,Aberin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31008,Aguilar de Codés,2024,75,Aguilar de Codés,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31009,Aibar/Oibar,2024,762,Aibar/Oibar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31011,Allín/Allin,2024,899,Allín/Allin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31012,Allo,2024,993,Allo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31013,Améscoa Baja,2024,727,Améscoa Baja,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31014,Ancín/Antzin,2024,346,Ancín/Antzin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31015,Andosilla,2024,2913,Andosilla,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31016,Ansoáin/Antsoain,2024,10641,Ansoáin/Antsoain,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31017,Anue,2024,486,Anue,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31019,Aoiz/Agoitz,2024,3007,Aoiz/Agoitz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31020,Araitz,2024,520,Araitz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31021,Aranarache/Aranaratxe,2024,70,Aranarache/Aranaratxe,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31022,Arantza,2024,619,Arantza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31023,Aranguren,2024,12787,Aranguren,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31024,Arano,2024,110,Arano,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31026,Aras,2024,155,Aras,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31028,Arce/Artzi,2024,301,Arce/Artzi,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31029,"Arcos, Los",2024,1191,"Arcos, Los",0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31030,Arellano,2024,159,Arellano,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31031,Areso,2024,266,Areso,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31033,Aria,2024,47,Aria,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31034,Aribe,2024,32,Aribe,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31035,Armañanzas,2024,53,Armañanzas,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31036,Arróniz,2024,1054,Arróniz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31039,Artazu,2024,124,Artazu,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31040,Atetz,2024,216,Atetz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31041,Ayegui/Aiegi,2024,2550,Ayegui/Aiegi,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31042,Azagra,2024,3756,Azagra,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31043,Azuelo,2024,33,Azuelo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31046,Barbarin,2024,46,Barbarin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31047,Bargota,2024,247,Bargota,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31049,Basaburua,2024,833,Basaburua,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31050,Baztan,2024,7863,Baztan,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31052,Belascoáin,2024,129,Belascoáin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31054,Bertizarana,2024,654,Bertizarana,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31055,Betelu,2024,383,Betelu,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31058,Auritz/Burguete,2024,230,Auritz/Burguete,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31059,Burgui/Burgi,2024,190,Burgui/Burgi,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31060,Burlada/Burlata,2024,21078,Burlada/Burlata,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31061,"Busto, El",2024,54,"Busto, El",0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31063,Cabredo,2024,75,Cabredo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31066,Cárcar,2024,1140,Cárcar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31069,Cáseda,2024,943,Cáseda,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31071,Castillonuevo,2024,15,Castillonuevo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31074,Cirauqui/Zirauki,2024,465,Cirauqui/Zirauki,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31075,Ciriza/Ziritza,2024,161,Ciriza/Ziritza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31076,Cizur,2024,3940,Cizur,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31079,Desojo,2024,70,Desojo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31080,Dicastillo,2024,571,Dicastillo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31081,Donamaria,2024,452,Donamaria,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31082,Etxalar,2024,814,Etxalar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31083,Echarri/Etxarri,2024,78,Echarri/Etxarri,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31085,Etxauri,2024,662,Etxauri,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31086,Valle de Egüés/Eguesibar,2024,22443,Valle de Egüés/Eguesibar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31087,Elgorriaga,2024,210,Elgorriaga,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31090,Eratsun,2024,153,Eratsun,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31092,Erro,2024,811,Erro,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31093,Ezcároz/Ezkaroze,2024,304,Ezcároz/Ezkaroze,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31094,Eslava,2024,106,Eslava,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31095,Esparza de Salazar/Espartza Zaraitzu,2024,76,Esparza de Salazar/Espartza Zaraitzu,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31096,Espronceda,2024,108,Espronceda,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31097,Estella-Lizarra,2024,14329,Estella-Lizarra,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31098,Esteribar,2024,2877,Esteribar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31099,Etayo,2024,70,Etayo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31100,Eulate,2024,271,Eulate,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31101,Ezcabarte,2024,1870,Ezcabarte,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31102,Ezkurra,2024,136,Ezkurra,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31103,Ezprogui,2024,51,Ezprogui,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31109,Galar,2024,2400,Galar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31110,Gallipienzo/Galipentzu,2024,98,Gallipienzo/Galipentzu,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31111,Gallués/Galoze,2024,93,Gallués/Galoze,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31112,Garaioa,2024,90,Garaioa,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31113,Garde,2024,131,Garde,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31115,Garralda,2024,180,Garralda,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31116,Genevilla,2024,68,Genevilla,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31117,Goizueta,2024,692,Goizueta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31118,Goñi,2024,172,Goñi,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31119,Güesa/Gorza,2024,35,Güesa/Gorza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31120,Guesálaz/Gesalatz,2024,433,Guesálaz/Gesalatz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31121,Guirguillano,2024,73,Guirguillano,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31122,Huarte/Uharte,2024,7737,Huarte/Uharte,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31124,Ibargoiti,2024,270,Ibargoiti,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31125,Igúzquiza,2024,302,Igúzquiza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31126,Imotz,2024,412,Imotz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31128,Isaba/Izaba,2024,385,Isaba/Izaba,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31129,Ituren,2024,526,Ituren,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31131,Iza/Itza,2024,1380,Iza/Itza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31132,Izagaondoa,2024,159,Izagaondoa,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31133,Izalzu/Itzaltzu,2024,38,Izalzu/Itzaltzu,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31134,Jaurrieta,2024,180,Jaurrieta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31135,Javier,2024,111,Javier,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31136,Juslapeña/Txulapain,2024,565,Juslapeña/Txulapain,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31137,Beintza-Labaien,2024,217,Beintza-Labaien,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31139,Lana,2024,157,Lana,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31140,Lantz,2024,151,Lantz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31141,Lapoblación,2024,126,Lapoblación,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31143,Larraona,2024,105,Larraona,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31144,Larraun,2024,901,Larraun,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31145,Lazagurría,2024,174,Lazagurría,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31146,Leache/Leatxe,2024,40,Leache/Leatxe,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31147,Legarda,2024,146,Legarda,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31148,Legaria,2024,119,Legaria,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31149,Leitza,2024,3011,Leitza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31151,Lerga,2024,43,Lerga,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31153,Lesaka,2024,2716,Lesaka,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31154,Lezaun,2024,247,Lezaun,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31155,Liédena,2024,351,Liédena,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31156,Lizoain-Arriasgoiti/Lizoainibar-Arriasgoiti,2024,288,Lizoain-Arriasgoiti/Lizoainibar-Arriasgoiti,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31157,Lodosa,2024,4931,Lodosa,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31158,Lónguida/Longida,2024,301,Lónguida/Longida,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31159,Lumbier,2024,1327,Lumbier,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31160,Luquin,2024,131,Luquin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31161,Mañeru,2024,450,Mañeru,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31162,Marañón,2024,50,Marañón,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31165,Mendavia,2024,3535,Mendavia,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31166,Mendaza,2024,291,Mendaza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31168,Metauten,2024,262,Metauten,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31170,Mirafuentes,2024,58,Mirafuentes,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31172,Monreal/Elo,2024,512,Monreal/Elo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31174,Morentin,2024,107,Morentin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31175,Mues,2024,76,Mues,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31177,Murieta,2024,344,Murieta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31180,Muruzábal,2024,275,Muruzábal,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31181,Navascués/Nabaskoze,2024,116,Navascués/Nabaskoze,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31182,Nazar,2024,43,Nazar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31184,Oco,2024,63,Oco,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31185,Ochagavía/Otsagabia,2024,488,Ochagavía/Otsagabia,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31186,Odieta,2024,378,Odieta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31187,Oiz,2024,133,Oiz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31188,Olaibar,2024,407,Olaibar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31190,Olejua,2024,47,Olejua,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31193,Cendea de Olza/Oltza Zendea,2024,1842,Cendea de Olza/Oltza Zendea,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31194,Valle de Ollo/Ollaran,2024,436,Valle de Ollo/Ollaran,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31195,Orbaizeta,2024,187,Orbaizeta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31196,Orbara,2024,29,Orbara,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31198,Oronz/Orontze,2024,51,Oronz/Orontze,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31199,Oroz-Betelu/Orotz-Betelu,2024,143,Oroz-Betelu/Orotz-Betelu,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31200,Oteiza,2024,950,Oteiza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31203,Petilla de Aragón,2024,26,Petilla de Aragón,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31204,Piedramillera,2024,45,Piedramillera,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31209,Romanzado/Erromantzatua,2024,191,Romanzado/Erromantzatua,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31210,Roncal/Erronkari,2024,214,Roncal/Erronkari,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31211,Orreaga/Roncesvalles,2024,21,Orreaga/Roncesvalles,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31212,Sada,2024,128,Sada,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31213,Saldías,2024,123,Saldías,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31214,Salinas de Oro/Jaitz,2024,112,Salinas de Oro/Jaitz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31215,San Adrián,2024,6481,San Adrián,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31216,Sangüesa/Zangoza,2024,4862,Sangüesa/Zangoza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31219,Sansol,2024,89,Sansol,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31221,Doneztebe/Santesteban,2024,1860,Doneztebe/Santesteban,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31222,Sarriés/Sartze,2024,59,Sarriés/Sartze,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31223,Sartaguda,2024,1325,Sartaguda,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31224,Sesma,2024,1247,Sesma,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31225,Sorlada,2024,43,Sorlada,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31226,Sunbilla,2024,674,Sunbilla,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31230,Torralba del Río,2024,97,Torralba del Río,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31231,Torres del Río,2024,115,Torres del Río,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31236,Ultzama,2024,1628,Ultzama,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31237,Unciti,2024,233,Unciti,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31239,Urdazubi/Urdax,2024,364,Urdazubi/Urdax,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31241,Urraul Alto,2024,136,Urraul Alto,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31242,Urraul Bajo,2024,323,Urraul Bajo,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31243,Urroz-Villa,2024,404,Urroz-Villa,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31244,Urroz,2024,173,Urroz,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31245,Urzainqui/Urzainki,2024,78,Urzainqui/Urzainki,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31246,Uterga,2024,171,Uterga,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31247,Uztárroz/Uztarroze,2024,140,Uztárroz/Uztarroze,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31248,Luzaide/Valcarlos,2024,309,Luzaide/Valcarlos,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31250,Bera,2024,3763,Bera,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31251,Viana,2024,4413,Viana,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31252,Vidángoz/Bidankoze,2024,76,Vidángoz/Bidankoze,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31253,Bidaurreta,2024,170,Bidaurreta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31255,Villamayor de Monjardín,2024,113,Villamayor de Monjardín,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31256,Hiriberri/Villanueva de Aezkoa,2024,99,Hiriberri/Villanueva de Aezkoa,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31257,Villatuerta,2024,1268,Villatuerta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31258,Villava/Atarrabia,2024,10016,Villava/Atarrabia,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31259,Igantzi,2024,591,Igantzi,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31260,Valle de Yerri/Deierri,2024,1566,Valle de Yerri/Deierri,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31261,Yesa,2024,290,Yesa,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31262,Zabalza/Zabaltza,2024,297,Zabalza/Zabaltza,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31263,Zubieta,2024,290,Zubieta,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31264,Zugarramurdi,2024,227,Zugarramurdi,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31265,Zúñiga,2024,82,Zúñiga,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31901,Barañáin/Barañain,2024,19606,Barañáin/Barañain,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31902,Berrioplano/Berriobeiti,2024,7631,Berrioplano/Berriobeiti,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31903,Berriozar,2024,11201,Berriozar,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31905,Beriáin,2024,4197,Beriáin,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31906,Orkoien,2024,4097,Orkoien,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31907,Zizur Mayor/Zizur Nagusia,2024,16124,Zizur Mayor/Zizur Nagusia,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio
+31908,Lekunberri,2024,1697,Lekunberri,0,0,0.0,0,0,False,Sin parada,0.0,0.0,False,-1,Sin servicio

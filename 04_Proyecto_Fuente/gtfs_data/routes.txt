@@ -1,0 +1,33 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+300,9,,Pamplona/Iruña-Soria (por carretera),3
+301,9,,Pamplona/Iruña-Soria (por autopista),3
+320,23,,Tafalla-Pamplona/Iruña (autopista),3
+321,23,,Olite/Erriberri - Pamplona/Iruña (autopista),3
+322,23,,Tafalla - Pamplona/Iruña (carretera),3
+323,23,,Marcilla -Tafalla,3
+324,23,,Figarol - Tafalla,3
+325,23,,Rada - Tafalla,3
+326,23,,Mendigorría - Tafalla,3
+327,23,,Miranda de Arga - Tafalla,3
+328,23,,Urbano Tafalla,3
+329,23,,Echagüe - Tafalla,3
+330,23,,Olleta - Tafalla,3
+331,23,,Uzquita - Tafalla,3
+332,23,,Amatriain - Tafalla,3
+333,23,,Ujué/Uxue - Tafalla,3
+334,23,,Puente la Reina/Gares - Campanas,3
+335,23,,Lerín - Larraga,3
+336,23,,Línea San Fermín NAV002,3
+352,23,,Baños Fitero - Tudela,3
+353,23,,Cortes-Tudela,3
+354,23,,Villafranca - Tudela,3
+355,23,,Milagro-Tudela,3
+351,23,,Tarazona - Tudela,3
+350,23,,Pamplona/Iruña-Tudela-Zaragoza,3
+356,23,,Línea San Fermín NAV003,3
+375,12,,Pamplona/Iruña - Olazti/Olazagutía,3
+371,12,,Pamplona/Iruña - Vitoria-Gasteiz (Semidirecto),3
+372,12,,Pamplona/Iruña - Ziordia,3
+373,12,,Arakil - Irurtzun,3
+374,12,,Ergoiena - Altsasu/Alsasua,3
+370,12,,Pamplona/Iruña - Vitoria-Gasteiz (Paradas),3

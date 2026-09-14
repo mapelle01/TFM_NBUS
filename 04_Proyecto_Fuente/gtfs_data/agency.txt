@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+9,Conda S.A.,http://www.conda.es,Europe/Madrid,902422242,es
+23,Inter-Arriaga S.L.,http://www.arriagabus.com,Europe/Madrid,945285000,es
+12,La Burundesa S.A.U,http://www.laburundesa.com,Europe/Madrid,948303505,es

@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Paquete comprimido redundante (duplica 04_Proyecto_Fuente/)
+04_Proyecto_Fuente.zip
+
+# Vídeo de presentación (se mantiene en local, fuera del repo)
+02_Video/
+
+# Secretos / entorno
+.env
+*.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/

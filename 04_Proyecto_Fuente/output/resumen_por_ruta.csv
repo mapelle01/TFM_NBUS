@@ -1,0 +1,33 @@
+route_id,route_short_name,route_long_name,route_type,agency_name,exp_ida,exp_vuelta,num_paradas_unicas,num_bajo_peticion,pct_bajo_peticion,distancia_media_km,hora_primera,hora_ultima,tiempo_recorrido_medio_min,num_expediciones,num_dias_activo,frecuencia_diaria_media
+300,300,Pamplona/Iruña-Soria (por carretera),3,Conda S.A.,1,1,20,0,0.0,193.675,11,15,182.0,2,2230,0.0
+301,301,Pamplona/Iruña-Soria (por autopista),3,Conda S.A.,20,18,10,0,0.0,148.24,1,23,92.7,38,2230,0.02
+320,320,Tafalla-Pamplona/Iruña (autopista),3,Inter-Arriaga S.L.,7,9,10,0,0.0,37.9725,7,21,37.8,16,1455,0.01
+321,321,Olite/Erriberri - Pamplona/Iruña (autopista),3,Inter-Arriaga S.L.,13,11,15,0,0.0,44.660000000000004,6,20,52.7,24,1455,0.02
+322,322,Tafalla - Pamplona/Iruña (carretera),3,Inter-Arriaga S.L.,13,11,26,0,0.0,42.84428571428572,6,21,58.6,24,1455,0.02
+323,323,Marcilla -Tafalla,3,Inter-Arriaga S.L.,11,10,19,0,0.0,61.875,5,21,56.6,21,1455,0.01
+324,324,Figarol - Tafalla,3,Inter-Arriaga S.L.,10,8,21,0,0.0,53.95399999999999,5,22,66.9,18,1455,0.01
+325,325,Rada - Tafalla,3,Inter-Arriaga S.L.,10,9,10,0,0.0,37.086666666666666,6,22,36.0,19,1382,0.01
+326,326,Mendigorría - Tafalla,3,Inter-Arriaga S.L.,4,3,5,0,0.0,21.816666666666666,7,19,26.4,7,997,0.01
+327,327,Miranda de Arga - Tafalla,3,Inter-Arriaga S.L.,6,5,10,0,0.0,35.945,6,19,41.3,11,1104,0.01
+328,328,Urbano Tafalla,3,Inter-Arriaga S.L.,21,0,5,0,0.0,4.05,6,21,19.1,21,1455,0.01
+329,329,Echagüe - Tafalla,3,Inter-Arriaga S.L.,6,6,9,70,777.8,22.5,8,20,25.5,12,597,0.02
+330,330,Olleta - Tafalla,3,Inter-Arriaga S.L.,6,6,6,46,766.7,19.915,8,20,22.2,12,563,0.02
+331,331,Uzquita - Tafalla,3,Inter-Arriaga S.L.,6,6,10,70,700.0,28.6025,7,20,30.7,12,603,0.02
+332,332,Amatriain - Tafalla,3,Inter-Arriaga S.L.,6,6,8,58,725.0,18.7325,8,20,19.2,12,556,0.02
+333,333,Ujué/Uxue - Tafalla,3,Inter-Arriaga S.L.,3,3,5,18,360.0,18.58,7,20,19.0,6,1200,0.0
+334,334,Puente la Reina/Gares - Campanas,3,Inter-Arriaga S.L.,3,3,13,60,461.5,34.555,8,19,45.0,6,953,0.01
+335,335,Lerín - Larraga,3,Inter-Arriaga S.L.,4,4,2,16,800.0,13.96,8,14,13.0,8,454,0.02
+336,336,Línea San Fermín NAV002,3,Inter-Arriaga S.L.,2,9,16,0,0.0,40.87,0,21,49.1,11,19,0.58
+352,352,Baños Fitero - Tudela,3,Inter-Arriaga S.L.,11,11,13,0,0.0,35.29714285714286,6,20,46.2,22,1078,0.02
+353,353,Cortes-Tudela,3,Inter-Arriaga S.L.,14,14,14,0,0.0,28.314999999999998,6,20,40.2,28,1047,0.03
+354,354,Villafranca - Tudela,3,Inter-Arriaga S.L.,7,9,15,0,0.0,36.36333333333334,8,20,43.1,16,977,0.02
+355,355,Milagro-Tudela,3,Inter-Arriaga S.L.,14,14,9,0,0.0,38.50666666666667,7,20,46.6,28,1078,0.03
+351,351,Tarazona - Tudela,3,Inter-Arriaga S.L.,12,14,19,0,0.0,25.0925,7,20,38.7,26,1061,0.02
+350,350,Pamplona/Iruña-Tudela-Zaragoza,3,Inter-Arriaga S.L.,18,18,37,0,0.0,153.75458333333333,6,21,130.3,36,1078,0.03
+356,356,Línea San Fermín NAV003,3,Inter-Arriaga S.L.,1,0,2,0,0.0,98.06,1,1,75.0,1,18,0.06
+375,375,Pamplona/Iruña - Olazti/Olazagutía,3,La Burundesa S.A.U,2,2,25,1,4.0,59.0125,6,12,74.8,4,285,0.01
+371,371,Pamplona/Iruña - Vitoria-Gasteiz (Semidirecto),3,La Burundesa S.A.U,11,11,24,0,0.0,102.63076923076923,6,19,99.5,22,959,0.02
+372,372,Pamplona/Iruña - Ziordia,3,La Burundesa S.A.U,2,3,35,0,0.0,64.5225,6,15,87.6,5,513,0.01
+373,373,Arakil - Irurtzun,3,La Burundesa S.A.U,2,3,10,45,450.0,24.795,8,19,43.0,5,414,0.01
+374,374,Ergoiena - Altsasu/Alsasua,3,La Burundesa S.A.U,2,3,5,25,500.0,25.64,8,20,31.6,5,418,0.01
+370,370,Pamplona/Iruña - Vitoria-Gasteiz (Paradas),3,La Burundesa S.A.U,8,6,39,0,0.0,104.14714285714285,8,21,119.5,14,784,0.02

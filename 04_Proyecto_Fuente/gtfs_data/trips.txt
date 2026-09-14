@@ -1,0 +1,493 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+300,1,300.1.1-2,Pamplona/Iruña-Soria (por carretera),0,300.1.1_shape
+300,2,300.2.1-3,Soria-Pamplona/Iruña (por carretera),1,300.2.1_shape
+301,3,301.4.1-2,Soria-Pamplona/Iruña (por Cintruénigo y Tafalla),1,301.4.1_shape
+301,4,301.4.1-3,Soria-Pamplona/Iruña (por Cintruénigo y Tafalla),1,301.4.1_shape
+301,5,301.4.1-4,Soria-Pamplona/Iruña (por Cintruénigo y Tafalla),1,301.4.1_shape
+301,6,301.4.1-5,Soria-Pamplona/Iruña (por Cintruénigo y Tafalla),1,301.4.1_shape
+301,7,301.4.1-8,Soria-Pamplona/Iruña (por Cintruénigo y Tafalla),1,301.4.1_shape
+301,8,301.5.1-4,Pamplona/Iruña-Soria (por Cintruénigo),0,301.5.1_shape
+301,9,301.5.1-2,Pamplona/Iruña-Soria (por Cintruénigo),0,301.5.1_shape
+301,10,301.5.1-3,Pamplona/Iruña-Soria (por Cintruénigo),0,301.5.1_shape
+301,11,301.6.1-2,Soria-Pamplona/Iruña (por Cintruénigo),1,301.6.1_shape
+301,12,301.7.1-1,Soria-Pamplona/Iruña (por Cintruénigo),1,301.7.1_shape
+301,13,301.7.1-2,Soria-Pamplona/Iruña (por Cintruénigo),1,301.7.1_shape
+301,14,301.9.1-1,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,15,301.9.1-2,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,16,301.9.1-3,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,17,301.9.1-4,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,18,301.9.1-5,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,19,301.9.1-6,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,20,301.9.1-7,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,21,301.9.1-8,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,22,301.9.1-9,LanzaderaTudela-Cintruénigo,0,301.9.1_shape
+301,23,301.1.1-2,Pamplona/Iruña-Soria (por Tafalla y Tudela),0,301.1.1_shape
+301,24,301.1.1-3,Pamplona/Iruña-Soria (por Tafalla y Tudela),0,301.1.1_shape
+301,25,301.10.1-3,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,26,301.10.1-4,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,27,301.10.1-5,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,28,301.10.1-6,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,29,301.10.1-8,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,30,301.10.1-12,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,31,301.10.1-9,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,32,301.10.1-13,Lanzadera Cintruénigo-Tudela,1,301.10.1_shape
+301,33,301.2.1-3,Pamplona/Iruña-Soria (por Tafalla y Cintruénigo),0,301.2.1_shape
+301,34,301.2.1-4,Pamplona/Iruña-Soria (por Tafalla y Cintruénigo),0,301.2.1_shape
+301,35,301.2.1-5,Pamplona/Iruña-Soria (por Tafalla y Cintruénigo),0,301.2.1_shape
+301,36,301.2.1-6,Pamplona/Iruña-Soria (por Tafalla y Cintruénigo),0,301.2.1_shape
+301,37,301.2.1-7,Pamplona/Iruña-Soria (por Tafalla y Cintruénigo),0,301.2.1_shape
+301,38,301.2.1-8,Pamplona/Iruña-Soria (por Tafalla y Cintruénigo),0,301.2.1_shape
+301,39,301.3.1-4,Soria-Pamplona/Iruña (por Tudela y Tafalla),1,301.3.1_shape
+301,40,301.3.1-5,Soria-Pamplona/Iruña (por Tudela y Tafalla),1,301.3.1_shape
+320,41,320.2.1-1,Tafalla - Pamplona/Iruña. Directo,0,320.2.1_shape
+320,42,320.2.1-3,Tafalla - Pamplona/Iruña. Directo,0,320.2.1_shape
+320,43,320.2.1-6,Tafalla - Pamplona/Iruña. Directo,0,320.2.1_shape
+320,44,320.2.1-7,Tafalla - Pamplona/Iruña. Directo,0,320.2.1_shape
+320,45,320.2.1-10,Tafalla - Pamplona/Iruña. Directo,0,320.2.1_shape
+320,46,320.2.1-11,Tafalla - Pamplona/Iruña. Directo,0,320.2.1_shape
+320,47,320.3.1-0,Pamplona/Iruña - Tafalla (Av.Zaragoza) Directo,1,320.3.1_shape
+320,48,320.3.1-2,Pamplona/Iruña - Tafalla (Av.Zaragoza) Directo,1,320.3.1_shape
+320,49,320.4.1-1,Pamplona/Iruña - Tafalla. Directo,1,320.4.1_shape
+320,50,320.4.1-2,Pamplona/Iruña - Tafalla. Directo,1,320.4.1_shape
+320,51,320.4.1-3,Pamplona/Iruña - Tafalla. Directo,1,320.4.1_shape
+320,52,320.4.1-4,Pamplona/Iruña - Tafalla. Directo,1,320.4.1_shape
+320,53,320.4.1-5,Pamplona/Iruña - Tafalla. Directo,1,320.4.1_shape
+320,54,320.4.1-6,Pamplona/Iruña - Tafalla. Directo,1,320.4.1_shape
+320,55,320.4.1-0,Pamplona/Iruña - Tafalla. Directo,1,320.4.1_shape
+320,56,320.1.2-1,Tafalla - Pamplona/Iruña  (Univ  Hosp),0,320.1.2_shape
+321,57,321.6.1-9,Pamplona/Iruña - Olite/Erriberri (Av.Zaragoza Tafalla),1,321.6.1_shape
+321,58,321.6.1-7,Pamplona/Iruña - Olite/Erriberri (Av.Zaragoza Tafalla),1,321.6.1_shape
+321,59,321.6.1-8,Pamplona/Iruña - Olite/Erriberri (Av.Zaragoza Tafalla),1,321.6.1_shape
+321,60,321.7.1-4,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo Primera Hora,0,321.7.1_shape
+321,61,321.1.1-12,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,62,321.1.1-8,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,63,321.1.1-9,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,64,321.1.1-10,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,65,321.1.1-0,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,66,321.1.1-5,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,67,321.1.1-7,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,68,321.1.1-1,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,69,321.1.1-4,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,321.1.1_shape
+321,70,321.2.1-1,Olite/Erriberri - Pamplona/Iruña (Tafalla Hosp),0,321.2.1_shape
+321,71,321.2.1-0,Olite/Erriberri - Pamplona/Iruña (Tafalla Hosp),0,321.2.1_shape
+321,72,321.4.1-0,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,321.4.1_shape
+321,73,321.4.1-5,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,321.4.1_shape
+321,74,321.4.1-6,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,321.4.1_shape
+321,75,321.4.1-7,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,321.4.1_shape
+321,76,321.4.1-2,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,321.4.1_shape
+321,77,321.4.1-9,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,321.4.1_shape
+321,78,321.5.1-0,Pamplona/Iruña - Olite/Erriberri (Tafalla Hosp),1,321.5.1_shape
+321,79,321.5.1-1,Pamplona/Iruña - Olite/Erriberri (Tafalla Hosp),1,321.5.1_shape
+321,80,321.3.2-0,Olite/Erriberri - Pamplona/Iruña (Tafalla Hosp Univ) ,0,321.3.2_shape
+322,81,322.6.1-0,Tafalla - Pamplona/Iruña. Paradas,0,322.6.1_shape
+322,82,322.6.1-10,Tafalla - Pamplona/Iruña. Paradas,0,322.6.1_shape
+322,83,322.7.1-3,Pamplona/Iruña - Olite (Hosp Tafalla) Paradas,1,322.7.1_shape
+322,84,322.2.1-10,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,85,322.2.1-1,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,86,322.2.1-3,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,87,322.2.1-4,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,88,322.2.1-6,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,89,322.2.1-7,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,90,322.2.1-8,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,91,322.2.1-9,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,92,322.2.1-5,Tafalla - Pamplona/Iruña. Paradas,0,322.2.1_shape
+322,93,322.4.1-6,Pamplona/Iruña - Tafalla. Paradas ,1,322.4.1_shape
+322,94,322.4.1-7,Pamplona/Iruña - Tafalla. Paradas ,1,322.4.1_shape
+322,95,322.4.1-8,Pamplona/Iruña - Tafalla. Paradas ,1,322.4.1_shape
+322,96,322.4.1-9,Pamplona/Iruña - Tafalla. Paradas ,1,322.4.1_shape
+322,97,322.4.1-10,Pamplona/Iruña - Tafalla. Paradas ,1,322.4.1_shape
+322,98,322.1.1-0,Tafalla - Pamplona/Iruña (Univ Hosp) Paradas,0,322.1.1_shape
+322,99,322.1.1-1,Tafalla - Pamplona/Iruña (Univ Hosp) Paradas,0,322.1.1_shape
+322,100,322.3.1-4,Pamplona/Iruña - Tafalla (Hospitales) Paradas,1,322.3.1_shape
+322,101,322.3.1-5,Pamplona/Iruña - Tafalla (Hospitales) Paradas,1,322.3.1_shape
+322,102,322.3.1-6,Pamplona/Iruña - Tafalla (Hospitales) Paradas,1,322.3.1_shape
+322,103,322.5.1-2,Pamplona/Iruña - Tafalla (Av.Zaragoza) Paradas,1,322.5.1_shape
+322,104,322.5.1-3,Pamplona/Iruña - Tafalla (Av.Zaragoza) Paradas,1,322.5.1_shape
+323,105,323.3.1-4,Marcilla - Tafalla - Pamplona/Iruña,0,323.3.1_shape
+323,106,323.4.1-0,Pamplona/Iruña - Marcilla,1,323.4.1_shape
+323,107,323.1.1-12,Marcilla - Tafalla,0,323.1.1_shape
+323,108,323.1.1-13,Marcilla - Tafalla,0,323.1.1_shape
+323,109,323.1.1-14,Marcilla - Tafalla,0,323.1.1_shape
+323,110,323.1.1-15,Marcilla - Tafalla,0,323.1.1_shape
+323,111,323.1.1-11,Marcilla - Tafalla,0,323.1.1_shape
+323,112,323.1.1-3,Marcilla - Tafalla,0,323.1.1_shape
+323,113,323.1.1-5,Marcilla - Tafalla,0,323.1.1_shape
+323,114,323.1.1-6,Marcilla - Tafalla,0,323.1.1_shape
+323,115,323.1.1-7,Marcilla - Tafalla,0,323.1.1_shape
+323,116,323.1.1-8,Marcilla - Tafalla,0,323.1.1_shape
+323,117,323.2.1-10,Tafalla - Marcilla,1,323.2.1_shape
+323,118,323.2.1-11,Tafalla - Marcilla,1,323.2.1_shape
+323,119,323.2.1-3,Tafalla - Marcilla,1,323.2.1_shape
+323,120,323.2.1-4,Tafalla - Marcilla,1,323.2.1_shape
+323,121,323.2.1-5,Tafalla - Marcilla,1,323.2.1_shape
+323,122,323.2.1-9,Tafalla - Marcilla,1,323.2.1_shape
+323,123,323.2.1-0,Tafalla - Marcilla,1,323.2.1_shape
+323,124,323.2.1-1,Tafalla - Marcilla,1,323.2.1_shape
+323,125,323.2.1-2,Tafalla - Marcilla,1,323.2.1_shape
+324,126,324.6.1-0,Figarol - Tafalla - Pamplona/Iruña,0,324.6.1_shape
+324,127,324.7.1-0,Carcastillo - Tafalla,0,324.7.1_shape
+324,128,324.1.1-4,Figarol - Tafalla,0,324.1.1_shape
+324,129,324.1.1-5,Figarol - Tafalla,0,324.1.1_shape
+324,130,324.1.1-6,Figarol - Tafalla,0,324.1.1_shape
+324,131,324.1.1-7,Figarol - Tafalla,0,324.1.1_shape
+324,132,324.1.1-8,Figarol - Tafalla,0,324.1.1_shape
+324,133,324.1.1-9,Figarol - Tafalla,0,324.1.1_shape
+324,134,324.1.1-2,Figarol - Tafalla,0,324.1.1_shape
+324,135,324.2.1-0,Figarol - Tafalla (primera hora),0,324.2.1_shape
+324,136,324.3.1-8,Tafalla - Figarol ,1,324.3.1_shape
+324,137,324.3.1-0,Tafalla - Figarol ,1,324.3.1_shape
+324,138,324.3.1-1,Tafalla - Figarol ,1,324.3.1_shape
+324,139,324.3.1-2,Tafalla - Figarol ,1,324.3.1_shape
+324,140,324.3.1-3,Tafalla - Figarol ,1,324.3.1_shape
+324,141,324.3.1-4,Tafalla - Figarol ,1,324.3.1_shape
+324,142,324.3.1-5,Tafalla - Figarol ,1,324.3.1_shape
+324,143,324.3.1-7,Tafalla - Figarol ,1,324.3.1_shape
+325,144,325.1.2-7,Rada - Tafalla,0,325.1.2_shape
+325,145,325.1.2-8,Rada - Tafalla,0,325.1.2_shape
+325,146,325.1.2-10,Rada - Tafalla,0,325.1.2_shape
+325,147,325.1.2-11,Rada - Tafalla,0,325.1.2_shape
+325,148,325.1.2-12,Rada - Tafalla,0,325.1.2_shape
+325,149,325.1.2-2,Rada - Tafalla,0,325.1.2_shape
+325,150,325.1.2-3,Rada - Tafalla,0,325.1.2_shape
+325,151,325.1.2-5,Rada - Tafalla,0,325.1.2_shape
+325,152,325.1.2-6,Rada - Tafalla,0,325.1.2_shape
+325,153,325.2.2-1,Rada - Tafalla  (primera hora),0,325.2.2_shape
+325,154,325.3.2-9,Tafalla - Rada ,1,325.3.2_shape
+325,155,325.3.2-8,Tafalla - Rada ,1,325.3.2_shape
+325,156,325.3.2-0,Tafalla - Rada ,1,325.3.2_shape
+325,157,325.3.2-1,Tafalla - Rada ,1,325.3.2_shape
+325,158,325.3.2-2,Tafalla - Rada ,1,325.3.2_shape
+325,159,325.3.2-3,Tafalla - Rada ,1,325.3.2_shape
+325,160,325.3.2-4,Tafalla - Rada ,1,325.3.2_shape
+325,161,325.3.2-5,Tafalla - Rada ,1,325.3.2_shape
+325,162,325.3.2-6,Tafalla - Rada ,1,325.3.2_shape
+326,163,326.1.1-4,Mendigorría - Tafalla ,0,326.1.1_shape
+326,164,326.1.1-5,Mendigorría - Tafalla ,0,326.1.1_shape
+326,165,326.1.1-2,Mendigorría - Tafalla ,0,326.1.1_shape
+326,166,326.1.1-3,Mendigorría - Tafalla ,0,326.1.1_shape
+326,167,326.2.1-4,Tafalla - Mendigorría ,1,326.2.1_shape
+326,168,326.2.1-5,Tafalla - Mendigorría ,1,326.2.1_shape
+326,169,326.3.2-0,Tafalla - Mendigorría -Puente la Reina,1,326.3.2_shape
+327,170,327.1.1-4,Miranda - Tafalla,0,327.1.1_shape
+327,171,327.1.1-5,Miranda - Tafalla,0,327.1.1_shape
+327,172,327.1.1-6,Miranda - Tafalla,0,327.1.1_shape
+327,173,327.1.1-7,Miranda - Tafalla,0,327.1.1_shape
+327,174,327.2.2-4,Tafalla - Miranda,1,327.2.2_shape
+327,175,327.2.2-2,Tafalla - Miranda,1,327.2.2_shape
+327,176,327.2.2-3,Tafalla - Miranda,1,327.2.2_shape
+327,177,327.3.1-0,Miranda - Tafalla (Mendigorría),0,327.3.1_shape
+327,178,327.3.1-1,Miranda - Tafalla (Mendigorría),0,327.3.1_shape
+327,179,327.4.1-1,Tafalla - Artajona (Miranda),1,327.4.1_shape
+327,180,327.4.1-0,Tafalla - Artajona (Miranda),1,327.4.1_shape
+328,181,328.1.1-18,Urbano Tafalla,0,328.1.1_shape
+328,182,328.1.1-21,Urbano Tafalla,0,328.1.1_shape
+328,183,328.1.1-22,Urbano Tafalla,0,328.1.1_shape
+328,184,328.1.1-6,Urbano Tafalla,0,328.1.1_shape
+328,185,328.1.1-10,Urbano Tafalla,0,328.1.1_shape
+328,186,328.1.1-11,Urbano Tafalla,0,328.1.1_shape
+328,187,328.1.1-8,Urbano Tafalla,0,328.1.1_shape
+328,188,328.1.1-12,Urbano Tafalla,0,328.1.1_shape
+328,189,328.1.1-14,Urbano Tafalla,0,328.1.1_shape
+328,190,328.1.1-15,Urbano Tafalla,0,328.1.1_shape
+328,191,328.1.1-16,Urbano Tafalla,0,328.1.1_shape
+328,192,328.1.1-17,Urbano Tafalla,0,328.1.1_shape
+328,193,328.1.1-2,Urbano Tafalla,0,328.1.1_shape
+328,194,328.1.1-3,Urbano Tafalla,0,328.1.1_shape
+328,195,328.1.1-0,Urbano Tafalla,0,328.1.1_shape
+328,196,328.1.1-1,Urbano Tafalla,0,328.1.1_shape
+328,197,328.2.1-1,Urbano Tafalla (Centro Salud),0,328.2.1_shape
+328,198,328.2.1-3,Urbano Tafalla (Centro Salud),0,328.2.1_shape
+328,199,328.2.1-4,Urbano Tafalla (Centro Salud),0,328.2.1_shape
+328,200,328.2.1-5,Urbano Tafalla (Centro Salud),0,328.2.1_shape
+328,201,328.2.1-0,Urbano Tafalla (Centro Salud),0,328.2.1_shape
+329,202,329.1.1-0,Echagüe - Tafalla (Barásoain),1,329.1.1_shape
+329,203,329.1.1-1,Echagüe - Tafalla (Barásoain),1,329.1.1_shape
+329,204,329.2.1-0,Echagüe - Tafalla,1,329.2.1_shape
+329,205,329.2.1-1,Echagüe - Tafalla,1,329.2.1_shape
+329,206,329.2.1-2,Echagüe - Tafalla,1,329.2.1_shape
+329,207,329.2.1-3,Echagüe - Tafalla,1,329.2.1_shape
+329,208,329.3.1-1,Tafalla - Echagüe (Barásoain),0,329.3.1_shape
+329,209,329.3.1-0,Tafalla - Echagüe (Barásoain),0,329.3.1_shape
+329,210,329.4.1-0,Tafalla - Echagüe,0,329.4.1_shape
+329,211,329.4.1-1,Tafalla - Echagüe,0,329.4.1_shape
+329,212,329.4.1-2,Tafalla - Echagüe,0,329.4.1_shape
+329,213,329.4.1-3,Tafalla - Echagüe,0,329.4.1_shape
+330,214,330.1.1-0,Olleta - Tafalla (Pueyo),1,330.1.1_shape
+330,215,330.1.1-1,Olleta - Tafalla (Pueyo),1,330.1.1_shape
+330,216,330.2.1-4,Olleta - Tafalla,1,330.2.1_shape
+330,217,330.2.1-5,Olleta - Tafalla,1,330.2.1_shape
+330,218,330.2.1-0,Olleta - Tafalla,1,330.2.1_shape
+330,219,330.2.1-1,Olleta - Tafalla,1,330.2.1_shape
+330,220,330.3.1-0,Tafalla - Olleta (Pueyo),0,330.3.1_shape
+330,221,330.3.1-2,Tafalla - Olleta (Pueyo),0,330.3.1_shape
+330,222,330.4.1-4,Tafalla - Olleta,0,330.4.1_shape
+330,223,330.4.1-0,Tafalla - Olleta,0,330.4.1_shape
+330,224,330.4.1-1,Tafalla - Olleta,0,330.4.1_shape
+330,225,330.4.1-2,Tafalla - Olleta,0,330.4.1_shape
+331,226,331.1.1-0,Uzquita - Tafalla (Barásoain),1,331.1.1_shape
+331,227,331.1.1-1,Uzquita - Tafalla (Barásoain),1,331.1.1_shape
+331,228,331.2.1-1,Uzquita - Tafalla,1,331.2.1_shape
+331,229,331.2.1-2,Uzquita - Tafalla,1,331.2.1_shape
+331,230,331.2.1-3,Uzquita - Tafalla,1,331.2.1_shape
+331,231,331.2.1-0,Uzquita - Tafalla,1,331.2.1_shape
+331,232,331.3.1-0,Tafalla - Uzquita (Barásoain),0,331.3.1_shape
+331,233,331.3.1-1,Tafalla - Uzquita (Barásoain),0,331.3.1_shape
+331,234,331.4.1-0,Tafalla - Uzquita,0,331.4.1_shape
+331,235,331.4.1-1,Tafalla - Uzquita,0,331.4.1_shape
+331,236,331.4.1-2,Tafalla - Uzquita,0,331.4.1_shape
+331,237,331.4.1-3,Tafalla - Uzquita,0,331.4.1_shape
+332,238,332.1.1-0,Amátriain - Tafalla (Barásoain),1,332.1.1_shape
+332,239,332.1.1-1,Amátriain - Tafalla (Barásoain),1,332.1.1_shape
+332,240,332.2.1-4,Amátriain - Tafalla ,1,332.2.1_shape
+332,241,332.2.1-5,Amátriain - Tafalla ,1,332.2.1_shape
+332,242,332.2.1-0,Amátriain - Tafalla ,1,332.2.1_shape
+332,243,332.2.1-1,Amátriain - Tafalla ,1,332.2.1_shape
+332,244,332.3.1-0,Tafalla - Amátriain (Barásoain),0,332.3.1_shape
+332,245,332.3.1-2,Tafalla - Amátriain (Barásoain),0,332.3.1_shape
+332,246,332.4.1-4,Tafalla - Amatriain ,0,332.4.1_shape
+332,247,332.4.1-0,Tafalla - Amatriain ,0,332.4.1_shape
+332,248,332.4.1-1,Tafalla - Amatriain ,0,332.4.1_shape
+332,249,332.4.1-2,Tafalla - Amatriain ,0,332.4.1_shape
+333,250,333.1.1-3,Tafalla - Ujué/Uxue,0,333.1.1_shape
+333,251,333.1.1-1,Tafalla - Ujué/Uxue,0,333.1.1_shape
+333,252,333.1.1-2,Tafalla - Ujué/Uxue,0,333.1.1_shape
+333,253,333.2.1-4,Ujué/Uxue - Tafalla,1,333.2.1_shape
+333,254,333.2.1-1,Ujué/Uxue - Tafalla,1,333.2.1_shape
+333,255,333.2.1-3,Ujué/Uxue - Tafalla,1,333.2.1_shape
+334,256,334.1.2-0,Puente la Reina/Gares - Campanas,0,334.1.2_shape
+334,257,334.1.2-1,Puente la Reina/Gares - Campanas,0,334.1.2_shape
+334,258,334.1.2-2,Puente la Reina/Gares - Campanas,0,334.1.2_shape
+334,259,334.2.2-0,Campanas - Puente la Reina/Gares,1,334.2.2_shape
+334,260,334.2.2-1,Campanas - Puente la Reina/Gares,1,334.2.2_shape
+334,261,334.2.2-2,Campanas - Puente la Reina/Gares,1,334.2.2_shape
+335,262,335.1.1-0,Lerín - Larraga,0,335.1.1_shape
+335,263,335.1.1-1,Lerín - Larraga,0,335.1.1_shape
+335,264,335.1.1-4,Lerín - Larraga,0,335.1.1_shape
+335,265,335.1.1-5,Lerín - Larraga,0,335.1.1_shape
+335,266,335.2.1-0,Larraga - Lerín,1,335.2.1_shape
+335,267,335.2.1-1,Larraga - Lerín,1,335.2.1_shape
+335,268,335.2.1-4,Larraga - Lerín,1,335.2.1_shape
+335,269,335.2.1-5,Larraga - Lerín,1,335.2.1_shape
+336,270,336.1.1-9,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,336.1.1_shape
+336,271,336.1.1-2,Olite/Erriberri - Pamplona/Iruña (Tafalla) Directo,0,336.1.1_shape
+336,272,336.2.1-4,Pamplona/Iruña - Olite (Tafalla). Paradas ,1,336.2.1_shape
+336,273,336.3.1-6,Pamplona/Iruña - Tafalla. Directo,1,336.3.1_shape
+336,274,336.4.1-6,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,336.4.1_shape
+336,275,336.4.1-7,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,336.4.1_shape
+336,276,336.4.1-8,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,336.4.1_shape
+336,277,336.4.1-9,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,336.4.1_shape
+336,278,336.4.1-0,Pamplona/Iruña - Olite/Erriberri (Tafalla) Directo ,1,336.4.1_shape
+336,279,336.5.1-1,Pamplona/Iruña - Tafalla. Paradas ,1,336.5.1_shape
+336,280,336.5.1-0,Pamplona/Iruña - Tafalla. Paradas ,1,336.5.1_shape
+352,281,352.7.1-2,Fitero-Tudela (Hospital),0,352.7.1_shape
+352,282,352.7.1-0,Fitero-Tudela (Hospital),0,352.7.1_shape
+352,283,352.6.1-0,Fitero-Tudela (Hospital),0,352.6.1_shape
+352,284,352.3.1-4,Fitero-Tudela ,0,352.3.1_shape
+352,285,352.3.1-5,Fitero-Tudela ,0,352.3.1_shape
+352,286,352.4.1-8,Tudela-Fitero,1,352.4.1_shape
+352,287,352.4.1-4,Tudela-Fitero,1,352.4.1_shape
+352,288,352.4.1-5,Tudela-Fitero,1,352.4.1_shape
+352,289,352.4.1-6,Tudela-Fitero,1,352.4.1_shape
+352,290,352.4.1-7,Tudela-Fitero,1,352.4.1_shape
+352,291,352.5.1-5,Baños Fitero-Tudela (Hospital),0,352.5.1_shape
+352,292,352.2.1-1,Tudela-BañosFitero,1,352.2.1_shape
+352,293,352.2.1-2,Tudela-BañosFitero,1,352.2.1_shape
+352,294,352.2.1-3,Tudela-BañosFitero,1,352.2.1_shape
+352,295,352.2.1-5,Tudela-BañosFitero,1,352.2.1_shape
+352,296,352.2.1-6,Tudela-BañosFitero,1,352.2.1_shape
+352,297,352.2.1-4,Tudela-BañosFitero,1,352.2.1_shape
+352,298,352.1.1-0,Baños Fitero-Tudela (Hospital),0,352.1.1_shape
+352,299,352.1.1-1,Baños Fitero-Tudela (Hospital),0,352.1.1_shape
+352,300,352.1.1-2,Baños Fitero-Tudela (Hospital),0,352.1.1_shape
+352,301,352.1.1-4,Baños Fitero-Tudela (Hospital),0,352.1.1_shape
+352,302,352.1.1-3,Baños Fitero-Tudela (Hospital),0,352.1.1_shape
+353,303,353.1.2-4,Cortes-Tudela (Hospital Fustiñana),0,353.1.2_shape
+353,304,353.1.2-3,Cortes-Tudela (Hospital Fustiñana),0,353.1.2_shape
+353,305,353.1.2-2,Cortes-Tudela (Hospital Fustiñana),0,353.1.2_shape
+353,306,353.1.2-0,Cortes-Tudela (Hospital Fustiñana),0,353.1.2_shape
+353,307,353.1.2-1,Cortes-Tudela (Hospital Fustiñana),0,353.1.2_shape
+353,308,353.2.2-0,Cortes-Tudela (Hospital),0,353.2.2_shape
+353,309,353.4.2-1,Cortes-Tudela,0,353.4.2_shape
+353,310,353.4.2-3,Cortes-Tudela,0,353.4.2_shape
+353,311,353.4.2-2,Cortes-Tudela,0,353.4.2_shape
+353,312,353.4.2-0,Cortes-Tudela,0,353.4.2_shape
+353,313,353.5.2-3,Tudela-Cortes,1,353.5.2_shape
+353,314,353.5.2-1,Tudela-Cortes,1,353.5.2_shape
+353,315,353.5.2-0,Tudela-Cortes,1,353.5.2_shape
+353,316,353.5.2-2,Tudela-Cortes,1,353.5.2_shape
+353,317,353.3.1-0,Fustiñana-Tudela (Hospital),0,353.3.1_shape
+353,318,353.8.2-1,Tudela-Cortes (Fustiñana),1,353.8.2_shape
+353,319,353.8.2-0,Tudela-Cortes (Fustiñana),1,353.8.2_shape
+353,320,353.8.2-2,Tudela-Cortes (Fustiñana),1,353.8.2_shape
+353,321,353.8.2-4,Tudela-Cortes (Fustiñana),1,353.8.2_shape
+353,322,353.8.2-3,Tudela-Cortes (Fustiñana),1,353.8.2_shape
+353,323,353.8.2-5,Tudela-Cortes (Fustiñana),1,353.8.2_shape
+353,324,353.6.1-0,Fustiñana-Tudela,0,353.6.1_shape
+353,325,353.6.1-1,Fustiñana-Tudela,0,353.6.1_shape
+353,326,353.6.1-2,Fustiñana-Tudela,0,353.6.1_shape
+353,327,353.7.1-0,Tudela-Fustiñana,1,353.7.1_shape
+353,328,353.7.1-1,Tudela-Fustiñana,1,353.7.1_shape
+353,329,353.7.1-2,Tudela-Fustiñana,1,353.7.1_shape
+353,330,353.7.1-3,Tudela-Fustiñana,1,353.7.1_shape
+354,331,354.3.2-1,Tudela-Villafranca ,1,354.3.2_shape
+354,332,354.3.2-6,Tudela-Villafranca ,1,354.3.2_shape
+354,333,354.3.2-7,Tudela-Villafranca ,1,354.3.2_shape
+354,334,354.3.2-2,Tudela-Villafranca ,1,354.3.2_shape
+354,335,354.3.2-4,Tudela-Villafranca ,1,354.3.2_shape
+354,336,354.3.2-3,Tudela-Villafranca ,1,354.3.2_shape
+354,337,354.3.2-8,Tudela-Villafranca ,1,354.3.2_shape
+354,338,354.3.2-5,Tudela-Villafranca ,1,354.3.2_shape
+354,339,354.3.2-0,Tudela-Villafranca ,1,354.3.2_shape
+354,340,354.1.2-4,Villafranca-Tudela (Hospital),0,354.1.2_shape
+354,341,354.1.2-0,Villafranca-Tudela (Hospital),0,354.1.2_shape
+354,342,354.1.2-1,Villafranca-Tudela (Hospital),0,354.1.2_shape
+354,343,354.1.2-2,Villafranca-Tudela (Hospital),0,354.1.2_shape
+354,344,354.1.2-3,Villafranca-Tudela (Hospital),0,354.1.2_shape
+354,345,354.2.2-0,Villafranca-Tudela,0,354.2.2_shape
+354,346,354.2.2-1,Villafranca-Tudela,0,354.2.2_shape
+355,347,355.4.1-1,Milagro-Tudela (Hospital) ,0,355.4.1_shape
+355,348,355.4.1-2,Milagro-Tudela (Hospital) ,0,355.4.1_shape
+355,349,355.4.1-4,Milagro-Tudela (Hospital) ,0,355.4.1_shape
+355,350,355.4.1-5,Milagro-Tudela (Hospital) ,0,355.4.1_shape
+355,351,355.4.1-6,Milagro-Tudela (Hospital) ,0,355.4.1_shape
+355,352,355.4.1-7,Milagro-Tudela (Hospital) ,0,355.4.1_shape
+355,353,355.4.1-0,Milagro-Tudela (Hospital) ,0,355.4.1_shape
+355,354,355.5.1-2,Milagro-Tudela ,0,355.5.1_shape
+355,355,355.6.1-1,Tudela-Milagro,1,355.6.1_shape
+355,356,355.6.1-2,Tudela-Milagro,1,355.6.1_shape
+355,357,355.6.1-5,Tudela-Milagro,1,355.6.1_shape
+355,358,355.6.1-6,Tudela-Milagro,1,355.6.1_shape
+355,359,355.6.1-7,Tudela-Milagro,1,355.6.1_shape
+355,360,355.6.1-8,Tudela-Milagro,1,355.6.1_shape
+355,361,355.6.1-9,Tudela-Milagro,1,355.6.1_shape
+355,362,355.6.1-10,Tudela-Milagro,1,355.6.1_shape
+355,363,355.2.1-1,Milagro-Tudela ,0,355.2.1_shape
+355,364,355.2.1-3,Milagro-Tudela ,0,355.2.1_shape
+355,365,355.3.1-1,Tudela-Milagro,1,355.3.1_shape
+355,366,355.3.1-5,Tudela-Milagro,1,355.3.1_shape
+355,367,355.3.1-8,Tudela-Milagro,1,355.3.1_shape
+355,368,355.3.1-13,Tudela-Milagro,1,355.3.1_shape
+355,369,355.3.1-11,Tudela-Milagro,1,355.3.1_shape
+355,370,355.3.1-12,Tudela-Milagro,1,355.3.1_shape
+355,371,355.1.1-7,Milagro-Tudela (Hospital),0,355.1.1_shape
+355,372,355.1.1-8,Milagro-Tudela (Hospital),0,355.1.1_shape
+355,373,355.1.1-10,Milagro-Tudela (Hospital),0,355.1.1_shape
+355,374,355.1.1-11,Milagro-Tudela (Hospital),0,355.1.1_shape
+351,375,351.3.1-2,Ablitas-Tudela (Hospital),0,351.3.1_shape
+351,376,351.3.1-0,Ablitas-Tudela (Hospital),0,351.3.1_shape
+351,377,351.3.1-1,Ablitas-Tudela (Hospital),0,351.3.1_shape
+351,378,351.3.1-3,Ablitas-Tudela (Hospital),0,351.3.1_shape
+351,379,351.3.1-4,Ablitas-Tudela (Hospital),0,351.3.1_shape
+351,380,351.3.1-5,Ablitas-Tudela (Hospital),0,351.3.1_shape
+351,381,351.4.1-5,Tudela-Ablitas,1,351.4.1_shape
+351,382,351.4.1-1,Tudela-Ablitas,1,351.4.1_shape
+351,383,351.4.1-0,Tudela-Ablitas,1,351.4.1_shape
+351,384,351.4.1-2,Tudela-Ablitas,1,351.4.1_shape
+351,385,351.4.1-3,Tudela-Ablitas,1,351.4.1_shape
+351,386,351.4.1-4,Tudela-Ablitas,1,351.4.1_shape
+351,387,351.1.2-2,Tarazona-Tudela (Hospital),0,351.1.2_shape
+351,388,351.1.2-5,Tarazona-Tudela (Hospital),0,351.1.2_shape
+351,389,351.1.2-4,Tarazona-Tudela (Hospital),0,351.1.2_shape
+351,390,351.1.2-0,Tarazona-Tudela (Hospital),0,351.1.2_shape
+351,391,351.1.2-1,Tarazona-Tudela (Hospital),0,351.1.2_shape
+351,392,351.1.2-3,Tarazona-Tudela (Hospital),0,351.1.2_shape
+351,393,351.2.2-7,Tudela-Tarazona (Hospital),1,351.2.2_shape
+351,394,351.2.2-2,Tudela-Tarazona (Hospital),1,351.2.2_shape
+351,395,351.2.2-6,Tudela-Tarazona (Hospital),1,351.2.2_shape
+351,396,351.2.2-0,Tudela-Tarazona (Hospital),1,351.2.2_shape
+351,397,351.2.2-5,Tudela-Tarazona (Hospital),1,351.2.2_shape
+351,398,351.2.2-4,Tudela-Tarazona (Hospital),1,351.2.2_shape
+351,399,351.2.2-3,Tudela-Tarazona (Hospital),1,351.2.2_shape
+351,400,351.2.2-1,Tudela-Tarazona (Hospital),1,351.2.2_shape
+350,401,350.19.2-0,Tudela-Pamplona/Iruña (Universidad HUN) Directo,1,350.19.2_shape
+350,402,350.11.1-0,Zaragoza-Pamplona/Iruña (Mallén Tudela) Semidirecto,1,350.11.1_shape
+350,403,350.11.1-1,Zaragoza-Pamplona/Iruña (Mallén Tudela) Semidirecto,1,350.11.1_shape
+350,404,350.8.3-0,Pamplona/Iruña-Zaragoza (Tudela) Paradas,0,350.8.3_shape
+350,405,350.17.2-0,Pamplona/Iruña-Tudela (HUN) Paradas,0,350.17.2_shape
+350,406,350.24.2-0,Pamplona/Iruña-Tudela (HUN) Paradas,0,350.24.2_shape
+350,407,350.15.2-0,Pamplona/Iruña-Zaragoza (HUN Castejón Tudela) Paradas,0,350.15.2_shape
+350,408,350.16.3-0,Pamplona/Iruña-Zaragoza (HUN Univ Castejón Tudela) Paradas,0,350.16.3_shape
+350,409,350.9.3-0,Zaragoza-Pamplona/Iruña (Tudela Castejón) Paradas,1,350.9.3_shape
+350,410,350.7.2-0,Zaragoza-Pamplona/Iruña (Tudela Olite) Paradas,1,350.7.2_shape
+350,411,350.28.1-0,Pamplona/Iruña-Zaragoza (Tudela) Directo,0,350.28.1_shape
+350,412,350.6.2-0,Pamplona/Iruña-Zaragoza (Olite Tudela) Paradas,0,350.6.2_shape
+350,413,350.1.1-2,Pamplona/Iruña-Zaragoza (Tudela) Directo,0,350.1.1_shape
+350,414,350.10.2-0,Zaragoza-Pamplona/Iruña (Tudela Universidad) Directo,1,350.10.2_shape
+350,415,350.20.2-0,Tudela-Pamplona/Iruña (HUN) Paradas,1,350.20.2_shape
+350,416,350.27.1-0,Zaragoza-Pamplona/Iruña (Tudela) Directo,1,350.27.1_shape
+350,417,350.4.1-1,Pamplona/Iruña-Zaragoza (Tafalla Tudela) Semidirecto,0,350.4.1_shape
+350,418,350.12.1-1,Pamplona/Iruña-Tudela Directo,0,350.12.1_shape
+350,419,350.12.1-5,Pamplona/Iruña-Tudela Directo,0,350.12.1_shape
+350,420,350.12.1-4,Pamplona/Iruña-Tudela Directo,0,350.12.1_shape
+350,421,350.12.1-2,Pamplona/Iruña-Tudela Directo,0,350.12.1_shape
+350,422,350.5.1-1,Zaragoza-Pamplona/Iruña (Tudela Tafalla) Semidirecto,1,350.5.1_shape
+350,423,350.5.1-2,Zaragoza-Pamplona/Iruña (Tudela Tafalla) Semidirecto,1,350.5.1_shape
+350,424,350.13.1-1,Tudela-Pamplona/Iruña Directo,1,350.13.1_shape
+350,425,350.21.1-0,Tudela-Zaragoza (Paradas),0,350.21.1_shape
+350,426,350.3.1-1,Pamplona/Iruña-Zaragoza (CHN Tudela Mallén) Semidirecto,0,350.3.1_shape
+350,427,350.18.1-0,Tudela-Pamplona/Iruña (HUN) Directo,1,350.18.1_shape
+350,428,350.2.1-5,Zaragoza-Pamplona/Iruña (Tudela) Directo,1,350.2.1_shape
+350,429,350.2.1-6,Zaragoza-Pamplona/Iruña (Tudela) Directo,1,350.2.1_shape
+350,430,350.2.1-4,Zaragoza-Pamplona/Iruña (Tudela) Directo,1,350.2.1_shape
+350,431,350.2.1-3,Zaragoza-Pamplona/Iruña (Tudela) Directo,1,350.2.1_shape
+350,432,350.2.1-2,Zaragoza-Pamplona/Iruña (Tudela) Directo,1,350.2.1_shape
+350,433,350.2.1-1,Zaragoza-Pamplona/Iruña (Tudela) Directo,1,350.2.1_shape
+350,434,350.14.2-1,Pamplona/Iruña-Tudela (Universidad) Directo,0,350.14.2_shape
+350,435,350.14.2-3,Pamplona/Iruña-Tudela (Universidad) Directo,0,350.14.2_shape
+350,436,350.14.2-2,Pamplona/Iruña-Tudela (Universidad) Directo,0,350.14.2_shape
+356,437,356.1.1-2,Pamplona/Iruña-Tudela Directo,0,356.1.1_shape
+375,438,375.1.2-0,Pamplona/Iruña - Olazti/Olazagutía (Semidirecto)(Hospi),0,375.1.2_shape
+375,439,375.3.1-0,Pamplona/Iruña - Olazti/Olazagutía (Semidirecto)(Etxarri Aranatz),0,375.3.1_shape
+375,440,375.4.1-0,Olazti/Olazagutía - Pamplona/Iruña (Semidirecto) (Hosp),1,375.4.1_shape
+375,441,375.2.2-0,Olazti/Olazagutía - Pamplona/Iruña (pueblos) (Hosp  Univ),1,375.2.2_shape
+371,442,371.8.1-1,Vitoria-Gasteiz - Pamplona/Iruña. Semidirecto ,1,371.8.1_shape
+371,443,371.8.1-8,Vitoria-Gasteiz - Pamplona/Iruña. Semidirecto ,1,371.8.1_shape
+371,444,371.8.1-11,Vitoria-Gasteiz - Pamplona/Iruña. Semidirecto ,1,371.8.1_shape
+371,445,371.8.1-12,Vitoria-Gasteiz - Pamplona/Iruña. Semidirecto ,1,371.8.1_shape
+371,446,371.8.1-6,Vitoria-Gasteiz - Pamplona/Iruña. Semidirecto ,1,371.8.1_shape
+371,447,371.13.1-0,Pamplona/Iruña - Vitoria-Gasteiz (Irurtzun Altsasu) Directo,0,371.13.1_shape
+371,448,371.19.1-0,Vitoria-Gasteiz - Pamplona/Iruña (Altsasu) Directo,1,371.19.1_shape
+371,449,371.14.1-0,Pamplona/Iruña - Vitoria-Gasteiz (Altsasu) Directo,0,371.14.1_shape
+371,450,371.15.1-1,Pamplona/Iruña - Vitoria-Gasteiz (Irurtzun Altsasu) Directo,0,371.15.1_shape
+371,451,371.15.1-2,Pamplona/Iruña - Vitoria-Gasteiz (Irurtzun Altsasu) Directo,0,371.15.1_shape
+371,452,371.16.1-0,Pamplona/Iruña - Vitoria-Gasteiz (UPV),0,371.16.1_shape
+371,453,371.17.1-2,Pamplona/Iruña - Vitoria-Gasteiz. Semidirecto ,0,371.17.1_shape
+371,454,371.17.1-3,Pamplona/Iruña - Vitoria-Gasteiz. Semidirecto ,0,371.17.1_shape
+371,455,371.17.1-0,Pamplona/Iruña - Vitoria-Gasteiz. Semidirecto ,0,371.17.1_shape
+371,456,371.17.1-1,Pamplona/Iruña - Vitoria-Gasteiz. Semidirecto ,0,371.17.1_shape
+371,457,371.17.1-4,Pamplona/Iruña - Vitoria-Gasteiz. Semidirecto ,0,371.17.1_shape
+371,458,371.20.1-0,Vitoria-Gasteiz - Pamplona/Iruña (Agurain Hosp) S,1,371.20.1_shape
+371,459,371.21.1-0,Vitoria-Gasteiz - Pamplona/Iruña (Agurain Altsasu Hosp),1,371.21.1_shape
+371,460,371.7.1-0,Vitoria-Gasteiz - Pamplona/Iruña (Altsasu Hosp) Directo,1,371.7.1_shape
+371,461,371.11.1-2,Vitoria-Gasteiz - Pamplona/Iruña (Ziordia Hosp Univ),1,371.11.1_shape
+371,462,371.18.2-0,Pamplona/Iruña - Vitoria-Gasteiz (Hosp) Semidirecto,0,371.18.2_shape
+371,463,371.9.1-2,Vitoria-Gasteiz - Pamplona/Iruña(Hosp Univ),1,371.9.1_shape
+372,464,372.3.1-1,Ziordia - Pamplona/Iruña (pueblos) (Hosp  Univ),1,372.3.1_shape
+372,465,372.1.1-2,Pamplona/Iruña - Ziordia,0,372.1.1_shape
+372,466,372.4.1-2,Ziordia - Pamplona/Iruña (Hosp),1,372.4.1_shape
+372,467,372.4.1-3,Ziordia - Pamplona/Iruña (Hosp),1,372.4.1_shape
+372,468,372.2.2-0,Pamplona/Iruña - Ziordia (Univ Hosp),0,372.2.2_shape
+373,469,373.1.1-0,Arakil - Irurtzun,0,373.1.1_shape
+373,470,373.1.1-1,Arakil - Irurtzun,0,373.1.1_shape
+373,471,373.2.1-3,Irurtzun - Arakil,1,373.2.1_shape
+373,472,373.2.1-0,Irurtzun - Arakil,1,373.2.1_shape
+373,473,373.2.1-2,Irurtzun - Arakil,1,373.2.1_shape
+374,474,374.1.1-0,Ergoiena - Altsasu/Alsasua,0,374.1.1_shape
+374,475,374.1.1-1,Ergoiena - Altsasu/Alsasua,0,374.1.1_shape
+374,476,374.2.1-0,Altsasu/Alsasua - Ergoiena,1,374.2.1_shape
+374,477,374.2.1-1,Altsasu/Alsasua - Ergoiena,1,374.2.1_shape
+374,478,374.2.1-2,Altsasu/Alsasua - Ergoiena,1,374.2.1_shape
+370,479,370.8.1-2,Pamplona/Iruña - Vitoria-Gasteiz. Paradas,0,370.8.1_shape
+370,480,370.8.1-3,Pamplona/Iruña - Vitoria-Gasteiz. Paradas,0,370.8.1_shape
+370,481,370.5.1-1,Vitoria-Gasteiz - Pamplona/Iruña. Paradas,1,370.5.1_shape
+370,482,370.5.1-2,Vitoria-Gasteiz - Pamplona/Iruña. Paradas,1,370.5.1_shape
+370,483,370.6.1-2,Vitoria-Gasteiz - Pamplona/Iruña (Hosp),1,370.6.1_shape
+370,484,370.6.1-1,Vitoria-Gasteiz - Pamplona/Iruña (Hosp),1,370.6.1_shape
+370,485,370.6.1-5,Vitoria-Gasteiz - Pamplona/Iruña (Hosp),1,370.6.1_shape
+370,486,370.12.1-0,Vitoria-Gasteiz - Pamplona/Iruña (Agurain Hosp) P,1,370.12.1_shape
+370,487,370.9.2-0,Pamplona/Iruña - Vitoria-Gasteiz (Hosp) Paradas,0,370.9.2_shape
+370,488,370.9.2-1,Pamplona/Iruña - Vitoria-Gasteiz (Hosp) Paradas,0,370.9.2_shape
+370,489,370.9.2-2,Pamplona/Iruña - Vitoria-Gasteiz (Hosp) Paradas,0,370.9.2_shape
+370,490,370.11.2-0,Pamplona/Iruña - Vitoria-Gasteiz (Univ Hosp Agurain),0,370.11.2_shape
+370,491,370.10.2-0,Pamplona/Iruña - Vitoria-Gasteiz (Hosp  Agurain),0,370.10.2_shape
+370,492,370.10.2-1,Pamplona/Iruña - Vitoria-Gasteiz (Hosp  Agurain),0,370.10.2_shape

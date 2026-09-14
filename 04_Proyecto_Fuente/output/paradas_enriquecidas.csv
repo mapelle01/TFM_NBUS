@@ -1,0 +1,223 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,num_rutas_que_pasan,num_trips_que_pasan,es_bajo_peticion,agencias_que_pasan,nivel_hub
+3031,3031,Pamplona/Iruña. Estación Bus. Yanguas y Miranda,42.8113662841836,-1.64531046934006,14,182,False,"Conda S.A., Inter-Arriaga S.L., La Burundesa S.A.U",Intercambiador
+3536,3536,Tafalla. Av. Baja Navarra 7,42.5316274861459,-1.67254177455385,8,57,False,"Conda S.A., Inter-Arriaga S.L.",Multi-ruta
+3122,3122,Tafalla. c/ Recoletas 14,42.5261969563216,-1.67564026347561,14,105,True,"Conda S.A., Inter-Arriaga S.L.",Intercambiador
+4725,4725,Tafalla. Intercambiador Bus. c/ Pesquera 1,42.5227985971125,-1.68038526745851,13,200,False,"Conda S.A., Inter-Arriaga S.L.",Intercambiador
+3547,3547,Alfaro.  Estación Bus. c/ Ctra. Zaragoza 2,42.1796081243653,-1.75866755058382,1,2,False,Conda S.A.,Parada simple
+3545,3545,Corella. c/ Tajadas 5,42.1151603591101,-1.78731430535507,2,24,False,"Conda S.A., Inter-Arriaga S.L.",Parada simple
+3543,3543,Cintruénigo. Estación Bus. c/ Donantes de Sangre,42.0798019922096,-1.80189219609166,3,41,False,"Conda S.A., Inter-Arriaga S.L.",Multi-ruta
+3542,3542,Fitero. c/ Ctra. Tudela 13,42.0616502640298,-1.85799986810198,2,12,False,"Conda S.A., Inter-Arriaga S.L.",Parada simple
+4012,4012,Fitero. c/ Lejalde 30,42.0558832961889,-1.86133010710731,2,12,False,"Conda S.A., Inter-Arriaga S.L.",Parada simple
+3641,3641,Valverde. Pl. La Rioja 9,41.9796081003402,-1.86132834119756,1,1,False,Conda S.A.,Parada simple
+3643,3643,Ágreda. Av. Navarra 27,41.8579742860886,-1.92388577018262,1,2,False,Conda S.A.,Parada simple
+3645,3645,Matalebreras. c/ Ctra. Madrid 31-35,41.84088751126,-2.04491831043392,1,1,False,Conda S.A.,Parada simple
+3647,3647,Soria.  Estación Bus. Av. Valladolid 40,41.7670127504652,-2.47902992320095,2,23,False,Conda S.A.,Parada simple
+3646,3646,Matalebreras. c/ Ctra. Madrid F/31,41.8407342147682,-2.04489651308448,1,1,False,Conda S.A.,Parada simple
+3642,3642,Valverde. c/ Ctra. Madrid 16,41.9796066636564,-1.86118351940334,1,1,False,Conda S.A.,Parada simple
+4011,4011,Fitero. c/ Lejalde 41,42.0557446132187,-1.86187641102701,2,12,False,"Conda S.A., Inter-Arriaga S.L.",Parada simple
+3541,3541,Fitero. c/ Ctra. Tudela 20,42.061041314789,-1.85834920205283,2,12,False,"Conda S.A., Inter-Arriaga S.L.",Parada simple
+8003,8003,-,42.0787122670439,-1.80358112623746,2,33,False,Conda S.A.,Parada simple
+3121,3121,Tafalla. c/ Recoletas 7,42.5259104032794,-1.67578025670826,15,97,True,"Conda S.A., Inter-Arriaga S.L.",Intercambiador
+3535,3535,Tafalla. Av. Baja Navarra F/13,42.5320198236847,-1.67220514057292,10,70,False,"Conda S.A., Inter-Arriaga S.L.",Intercambiador
+3579,3579,Tudela. Estación Bus. c/ Cuesta Estación,42.0588394445227,-1.59733804042847,8,178,False,"Conda S.A., Inter-Arriaga S.L.",Multi-ruta
+5172,5172,Pamplona/Iruña. Av. Zaragoza F/72,42.8018097593414,-1.64366815772132,4,27,False,Inter-Arriaga S.L.,Multi-ruta
+4165,4165,Pamplona/Iruña. Av. Zaragoza PROX. 72,42.8010006916595,-1.64373935840389,3,7,False,Inter-Arriaga S.L.,Multi-ruta
+5103,5103,Pamplona/Iruña. c/ Sadar F/6,42.7989814457274,-1.64173473288805,10,18,False,"Inter-Arriaga S.L., La Burundesa S.A.U",Intercambiador
+5171,5171,Pamplona/Iruña. F/Hospitales. Av. Pio XII F/34,42.8060870759222,-1.66166096382913,6,11,False,Inter-Arriaga S.L.,Multi-ruta
+4667,4667,Olite / Erriberri. c/ Rua Romana F/22,42.4850691742901,-1.65466718409647,7,37,False,Inter-Arriaga S.L.,Multi-ruta
+4669,4669,Olite / Erriberri. c/ Alcalde Maillata 24,42.4792093706289,-1.65184853713668,7,40,False,Inter-Arriaga S.L.,Multi-ruta
+4637,4637,Olite / Erriberri. c/ Rua Romana PROX. 8,42.4839929094648,-1.65274351819485,5,36,False,Inter-Arriaga S.L.,Multi-ruta
+4639,4639,Olite / Erriberri. c/ Alcalde Maillata PROX. 21,42.4780808773122,-1.64931792406349,5,33,False,Inter-Arriaga S.L.,Multi-ruta
+4589,4589,Pamplona/Iruña. Hospitales. Av. Pio XII F/41,42.8070895256754,-1.66086905598053,3,11,False,Inter-Arriaga S.L.,Multi-ruta
+3321,3321,Pueyo/Puiu. N-121 km 29 2 A,42.5707289589646,-1.64517768598825,3,31,True,Inter-Arriaga S.L.,Multi-ruta
+5153,5153,Garínoain. c/Valdorba 7-9,42.6004732316126,-1.64563616261633,1,13,False,Inter-Arriaga S.L.,Parada simple
+3325,3325,Barásoain. c/ Doctor Navarro 10,42.6030569433158,-1.64543806933442,4,19,True,Inter-Arriaga S.L.,Multi-ruta
+5151,5151,Mendívil. C/De la fuente F/7,42.6212240691532,-1.63710668825314,1,13,False,Inter-Arriaga S.L.,Parada simple
+4567,4567,Unzué/Untzue. c/Soroeta 2,42.6509121911015,-1.62619862677656,1,24,False,Inter-Arriaga S.L.,Parada simple
+3538,3538,Campanas.  Av. Zaragoza F/10,42.6896838639333,-1.65036674388719,2,16,False,Inter-Arriaga S.L.,Parada simple
+4641,4641,Tiebas. Camino de Muru 3,42.6925122750816,-1.64100560490629,2,27,False,Inter-Arriaga S.L.,Parada simple
+3334,3334,Noáin. c/ Real 22,42.758069075383,-1.63359354883552,1,13,False,Inter-Arriaga S.L.,Parada simple
+3333,3333,Noáin. c/ Real F/22,42.7580619766541,-1.63375257217519,1,11,False,Inter-Arriaga S.L.,Parada simple
+5209,5209,Campanas.  Av. Zaragoza 14,42.6894121810602,-1.65071680590675,3,17,True,Inter-Arriaga S.L.,Multi-ruta
+5150,5150,Mendívil. C/De la fuente 7,42.6211254697823,-1.63714542030558,1,11,False,Inter-Arriaga S.L.,Parada simple
+3326,3326,Barásoain. c/ Doctor Navarro F/10,42.6030513411713,-1.64548751230969,5,20,False,Inter-Arriaga S.L.,Multi-ruta
+3323,3323,Garínoain. c/ Valdorba F/11,42.6002077067513,-1.64566295729805,2,14,False,Inter-Arriaga S.L.,Parada simple
+3901,3901,Marcilla. Av. Estación 1,42.3281147087274,-1.73944856193204,1,11,False,Inter-Arriaga S.L.,Parada simple
+3899,3899,Funes. Av. Navarra 1,42.3153303708906,-1.80109272110869,1,11,False,Inter-Arriaga S.L.,Parada simple
+3638,3638,Peralta / Azkoien. Av. Funes 1,42.3384814929668,-1.80596944331557,1,11,False,Inter-Arriaga S.L.,Parada simple
+3553,3553,Peralta. c/ Irurzun 24,42.3384258519974,-1.79720615683412,1,11,False,Inter-Arriaga S.L.,Parada simple
+3337,3337,Falces. c/ Fausta Elorz F/3,42.3877337437057,-1.7929964131475,1,21,False,Inter-Arriaga S.L.,Parada simple
+3554,3554,Peralta / Azkoien. c/ Irurzun 49,42.3387453343821,-1.79761278351086,1,10,False,Inter-Arriaga S.L.,Parada simple
+3637,3637,Peralta / Azkoien. Av. Funes 4,42.3385459125048,-1.80610175376392,1,10,False,Inter-Arriaga S.L.,Parada simple
+3900,3900,Funes. Av. Navarra F/1,42.3152743158081,-1.80089963233348,1,10,False,Inter-Arriaga S.L.,Parada simple
+3529,3529,Marcilla. Av. Estación 6,42.3283231882157,-1.7387525877444,1,10,False,Inter-Arriaga S.L.,Parada simple
+3299,3299,Figarol. Pl. España 1,42.3514145300716,-1.36781076815538,1,17,False,Inter-Arriaga S.L.,Parada simple
+3301,3301,Carcastillo. c/ Aragón F/7,42.3781483303184,-1.44438851811205,1,18,False,Inter-Arriaga S.L.,Parada simple
+3304,3304,Murillo el Fruto. c/ Mayor 55,42.3929190739341,-1.46131585467552,1,10,False,Inter-Arriaga S.L.,Parada simple
+3305,3305,Mélida. c/ Nueva 14,42.3582605103356,-1.54714946821121,1,18,False,Inter-Arriaga S.L.,Parada simple
+3307,3307,Santacara. c/ Ctra. Aibar PROX.F/23,42.375442385004,-1.5485618125804,1,10,False,Inter-Arriaga S.L.,Parada simple
+4105,4105,Pitillas. c/ Beire 16,42.4239428287563,-1.61962119971799,1,10,False,Inter-Arriaga S.L.,Parada simple
+3315,3315,Beire. Pl. V. Flamarique 1,42.4540852986645,-1.62192836724122,1,10,False,Inter-Arriaga S.L.,Parada simple
+3317,3317,Beire. c/ Carrera Aragón 6,42.4539975627519,-1.62191342833128,1,8,False,Inter-Arriaga S.L.,Parada simple
+3313,3313,Pitillas. c/ Beire 5,42.4232999997124,-1.62008506211562,1,8,False,Inter-Arriaga S.L.,Parada simple
+3308,3308,Santacara. c/ Ctra. Aibar PROX.23,42.3753551516965,-1.54862060430641,1,8,False,Inter-Arriaga S.L.,Parada simple
+4948,4948,Murillo el Fruto. c/ Mayor Prox. 64,42.3929225637502,-1.46184578964274,1,8,False,Inter-Arriaga S.L.,Parada simple
+4942,4942,Rada. Av.Navarra 18A,42.3198140140995,-1.57454089749838,1,19,False,Inter-Arriaga S.L.,Parada simple
+3557,3557,Caparroso. c/ Ctra. Zaragoza F/10,42.3400655463641,-1.65210831744926,2,11,False,Inter-Arriaga S.L.,Parada simple
+5198,5198,Traibuenas. C/ San Juan 3,42.3675618534193,-1.62882031336288,1,19,False,Inter-Arriaga S.L.,Parada simple
+3311,3311,Murillo el Cuende. c/ San Isidro 23,42.3979374400189,-1.62999021277038,1,19,False,Inter-Arriaga S.L.,Parada simple
+3558,3558,Caparroso. c/ Ctra. Zaragoza 10,42.3400430006912,-1.65222487944921,2,10,False,Inter-Arriaga S.L.,Parada simple
+3629,3629,Mendigorria. c/ Ctra. Larraga F/2,42.6283600588686,-1.83154789263182,2,11,False,Inter-Arriaga S.L.,Parada simple
+3627,3627,Artajona. Av. D.F. Navarra 1,42.5872548268727,-1.76427593297177,2,8,False,Inter-Arriaga S.L.,Parada simple
+3628,3628,Artajona. Av. S. Isidro Labrador 2,42.5873637905641,-1.76435909086676,1,3,False,Inter-Arriaga S.L.,Parada simple
+3400,3400,Puente la Reina/Gares. Ps. Los Fueros 6,42.6708920502109,-1.81482495566308,2,7,True,Inter-Arriaga S.L.,Parada simple
+3339,3339,Miranda de Arga. Av. San Benito F/14,42.483773090202,-1.82696969332483,1,11,False,Inter-Arriaga S.L.,Parada simple
+3344,3344,Berbinzana. c/ Nueva 22,42.5267760789679,-1.83359859565949,1,8,False,Inter-Arriaga S.L.,Parada simple
+4179,4179,Larraga. c/ Ctra. Berbinzana F/56-60,42.5558290489674,-1.84484108419822,1,8,False,Inter-Arriaga S.L.,Parada simple
+3345,3345,Larraga. c/ Ctra. Estella 2,42.5580498782611,-1.84985538887717,2,16,True,Inter-Arriaga S.L.,Parada simple
+3346,3346,Larraga. c/ Ctra. Berbinzana 4,42.5578144705452,-1.84960416951559,1,3,False,Inter-Arriaga S.L.,Parada simple
+4180,4180,Larraga. c/ Ctra. Berbinzana 56-60,42.5557401762534,-1.84483074951755,1,3,False,Inter-Arriaga S.L.,Parada simple
+3343,3343,Berbinzana. c/ Nueva 3 (Iglesia),42.5267917269533,-1.8338711756366,1,3,False,Inter-Arriaga S.L.,Parada simple
+4769,4769,Tafalla. c/ S. Martín Unx 11 (Centro Salud),42.533472193491,-1.67408279480952,1,5,False,Inter-Arriaga S.L.,Parada simple
+4595,4595,Echagüe. c/ General 9,42.6542289955949,-1.60256624640079,1,12,True,Inter-Arriaga S.L.,Parada simple
+4597,4597,Oricin. c/ General 5,42.6440650417998,-1.61841381210756,1,12,True,Inter-Arriaga S.L.,Parada simple
+4599,4599,Olóriz/Oloritz. Pl.Mayor 1-3,42.6351555934344,-1.61310493521312,1,12,True,Inter-Arriaga S.L.,Parada simple
+4627,4627,Solchaga. c/ Mairaga 13,42.6203600578276,-1.61339998600719,1,12,True,Inter-Arriaga S.L.,Parada simple
+4625,4625,Eristain. Barrio Eristain PROX. 2,42.6151783969824,-1.60987842561157,1,12,True,Inter-Arriaga S.L.,Parada simple
+4633,4633,Olleta. c/ La Plaza Olleta 10,42.584979083215,-1.5402254479887,1,12,True,Inter-Arriaga S.L.,Parada simple
+4631,4631,Maquirriain. c/ Santa Catalina 15,42.5715575627043,-1.57392077427657,1,12,True,Inter-Arriaga S.L.,Parada simple
+4629,4629,Sánsoain. c/ Santa María 17,42.5665454216776,-1.59687079076247,1,12,True,Inter-Arriaga S.L.,Parada simple
+4613,4613,Uzquita. c/ San Clemente 2,42.6336234792472,-1.51456150374068,1,12,True,Inter-Arriaga S.L.,Parada simple
+4615,4615,Leoz. c/ San Esteban PROX.17,42.6451587490809,-1.52012608531731,1,12,True,Inter-Arriaga S.L.,Parada simple
+4609,4609,Iracheta. c/ San Esteban 12,42.6377680183669,-1.54769996110265,1,12,True,Inter-Arriaga S.L.,Parada simple
+4607,4607,Amunarrizqueta. c/ San Bartolomé 6,42.6286417111759,-1.56126446995871,1,12,True,Inter-Arriaga S.L.,Parada simple
+4605,4605,Artáriain. c/ San Juan F/42,42.6169460984462,-1.57708897131507,1,12,True,Inter-Arriaga S.L.,Parada simple
+4603,4603,Orísoain. c/ El Tolar 10,42.601106237684,-1.60363193630482,1,12,True,Inter-Arriaga S.L.,Parada simple
+4623,4623,Amátriain. c/ San Esteban 3,42.5863868165153,-1.5687376711111,1,12,True,Inter-Arriaga S.L.,Parada simple
+4621,4621,Bézquiz. c/ San Andrés 3,42.5764802119984,-1.59897335692195,1,12,True,Inter-Arriaga S.L.,Parada simple
+4619,4619,Benegorri. c/ San Bartolomé 4,42.5814409464969,-1.61258478816196,1,12,True,Inter-Arriaga S.L.,Parada simple
+4617,4617,Sansomain. c/ San Pedro F/1,42.5886648360273,-1.63304453374791,1,12,True,Inter-Arriaga S.L.,Parada simple
+3119,3119,San Martín de Unx. Pl. Miguel Sanz 1,42.5235985915923,-1.56174050562119,1,3,True,Inter-Arriaga S.L.,Parada simple
+3335,3335,Ujué/Uxue. c/ Ctra. San Martín F/3,42.5069513013949,-1.50093713670207,1,6,True,Inter-Arriaga S.L.,Parada simple
+3120,3120,San Martín de Unx. Pl. Miguel Sanz 5,42.5236707683707,-1.56175102445898,1,3,True,Inter-Arriaga S.L.,Parada simple
+5237,5237,Obanos. c/ Los Infazones F/11,42.6798207589171,-1.78669554099646,1,6,True,Inter-Arriaga S.L.,Parada simple
+4869,4869,Adiós. c/ La Reunión F/1,42.6862222902382,-1.73591442447962,1,6,True,Inter-Arriaga S.L.,Parada simple
+3634,3634,Enériz/Eneritz. c/ Campanario F/2 (F/ Iglesia),42.6715970922289,-1.72865405145992,1,3,True,Inter-Arriaga S.L.,Parada simple
+4873,4873,Úcar. c/Ctra. de la Venta 1,42.6756047602565,-1.70519362569295,1,6,True,Inter-Arriaga S.L.,Parada simple
+3635,3635,Añorbe. c/ Fuentevieja 7,42.6595465793244,-1.71242820884712,1,6,True,Inter-Arriaga S.L.,Parada simple
+4871,4871,Tirapu. Pl.Consistorial 1,42.6573416159615,-1.70273938789531,1,6,True,Inter-Arriaga S.L.,Parada simple
+4901,4901,Olcoz. c/ Muskilda F/10,42.6656640849367,-1.68080007856014,1,6,True,Inter-Arriaga S.L.,Parada simple
+4645,4645,Muruarte de Reta. c/San Esteban 2,42.6674768364525,-1.66533433317336,1,6,True,Inter-Arriaga S.L.,Parada simple
+4899,4899,Biurrun. c/ Mayor F/22,42.6922763128809,-1.67885456254303,1,6,True,Inter-Arriaga S.L.,Parada simple
+3633,3633,Enériz/Eneritz. c/ Campanario 2 (iglesia),42.6717056835996,-1.72870065253446,1,3,True,Inter-Arriaga S.L.,Parada simple
+3341,3341,Lerín. c/ Portal F/10,42.48416267223,-1.97048610904415,1,8,True,Inter-Arriaga S.L.,Parada simple
+3708,3708,Cintruénigo. c/ Cantarrondas 19-21,42.0799145954092,-1.80751176148957,1,11,False,Inter-Arriaga S.L.,Parada simple
+5203,5203,Tudela. Hospital. N-121-C km 2 8 A,42.0407292896224,-1.6241751814969,5,52,False,Inter-Arriaga S.L.,Multi-ruta
+5013,5013,Tudela. Av. Huertas Mayores (piscinas),42.0508368405719,-1.60662767415591,1,2,False,Inter-Arriaga S.L.,Parada simple
+3707,3707,Cintruénigo. c/ Cantarrondas F/19,42.0800456438699,-1.80712243975138,1,11,False,Inter-Arriaga S.L.,Parada simple
+3540,3540,Baños de Fitero. c/ Extramuros (F/balneario),42.0566380419756,-1.90650326485193,1,6,False,Inter-Arriaga S.L.,Parada simple
+3539,3539,Baños de Fitero. c/ Extramuros (balneario),42.0567971277832,-1.90618631898017,1,6,False,Inter-Arriaga S.L.,Parada simple
+3602,3602,Cortes. c/ Ctra. Novillas F/4,41.923543364147,-1.42033822215444,1,10,False,Inter-Arriaga S.L.,Parada simple
+5088,5088,Buñuel. c/ Mayor F/90,41.9775665371657,-1.44160012083334,1,10,False,Inter-Arriaga S.L.,Parada simple
+3599,3599,Buñuel. c/ Mayor 3,41.9813589639028,-1.44637062257443,1,10,False,Inter-Arriaga S.L.,Parada simple
+3571,3571,Ribaforada. c/ Caballeros Templarios PROX. 11,41.9975755239785,-1.51060694057324,1,20,False,Inter-Arriaga S.L.,Parada simple
+5204,5204,Fustiñana. c/ Virgen de la Peña 1,42.0212508720174,-1.48492133718688,1,19,False,Inter-Arriaga S.L.,Parada simple
+5170,5170,Fustiñana. c/ Valero Bermejo F/53,42.0229215514424,-1.48936283258781,1,15,False,Inter-Arriaga S.L.,Parada simple
+3596,3596,Cabanillas. c/ Ramón y Cajal 63,42.0313878544028,-1.52548499859813,1,9,False,Inter-Arriaga S.L.,Parada simple
+3593,3593,Fontellas. c/ Tudela F/27,42.0292144404912,-1.57948402213911,1,19,False,Inter-Arriaga S.L.,Parada simple
+3600,3600,Buñuel. c/ Mayor 4,41.9812772891255,-1.44632432562877,1,10,False,Inter-Arriaga S.L.,Parada simple
+5087,5087,Buñuel. c/ Mayor 90,41.9775401823765,-1.44164904353836,1,10,False,Inter-Arriaga S.L.,Parada simple
+3574,3574,Cortes. c/ Carmen Bellido F/38bis,41.9251191148822,-1.42221762240927,1,10,False,Inter-Arriaga S.L.,Parada simple
+3595,3595,Cabanillas. c/ Ramón y Cajal 16A,42.0313066665607,-1.5254747951677,1,10,False,Inter-Arriaga S.L.,Parada simple
+3570,3570,Arguedas. c/ Ctra. Nueva F/52,42.174856654709,-1.59807934922832,2,11,False,Inter-Arriaga S.L.,Parada simple
+5208,5208,Valtierra. Ps. de la Ribera 32,42.1899700513197,-1.62631993974361,2,11,False,Inter-Arriaga S.L.,Parada simple
+3568,3568,Valtierra. Ps. de la Ribera 134,42.1958395851032,-1.63453139782905,2,11,False,Inter-Arriaga S.L.,Parada simple
+5316,5316,Valtierra. Ps. de la Ribera 206,42.2001720583941,-1.63976175690918,2,11,False,Inter-Arriaga S.L.,Parada simple
+3526,3526,Cadreita. Av. Navarra 43,42.216786191487,-1.69251714750505,3,25,False,Inter-Arriaga S.L.,Multi-ruta
+5205,5205,Cadreita. Av. Navarra 1A,42.2205039073031,-1.69602977108647,3,25,False,Inter-Arriaga S.L.,Multi-ruta
+3527,3527,Villafranca. Pz. de la Juventud,42.2775080399698,-1.74663136386608,2,23,False,Inter-Arriaga S.L.,Parada simple
+4255,4255,Cadreita. Av. Navarra F/1C,42.2199248976222,-1.69579936160109,3,26,False,Inter-Arriaga S.L.,Multi-ruta
+3525,3525,Cadreita. Av. Navarra 80,42.21663370631,-1.69238361865817,3,26,False,Inter-Arriaga S.L.,Multi-ruta
+5315,5315,Valtierra. Ps. de la Ribera 207,42.2001376228097,-1.63989573217053,2,12,False,Inter-Arriaga S.L.,Parada simple
+3567,3567,Valtierra. Ps. de la Ribera 113,42.1956966775273,-1.63463136724109,2,12,False,Inter-Arriaga S.L.,Parada simple
+5207,5207,Valtierra. Ps. de la Ribera 29,42.1901297842997,-1.62687356340924,2,12,False,Inter-Arriaga S.L.,Parada simple
+3569,3569,Arguedas. c/ Ctra. Nueva 52,42.1748407273708,-1.59824920693123,2,12,False,Inter-Arriaga S.L.,Parada simple
+5314,5314,Milagro. Av. De Navarra 38,42.2384745701404,-1.75967652253564,2,19,False,Inter-Arriaga S.L.,Parada simple
+3549,3549,Castejón. Pl. Constitución 9,42.1677675547962,-1.69088562071036,2,33,False,Inter-Arriaga S.L.,Parada simple
+3523,3523,Milagro. Av. San Juan F/10,42.2417262137129,-1.76563039247235,2,16,False,Inter-Arriaga S.L.,Parada simple
+3769,3769,Ablitas. Av. Cascante 8,41.9757732451025,-1.64136149934058,1,12,False,Inter-Arriaga S.L.,Parada simple
+3771,3771,Cascante. NA-3042 km 0 1 D,41.9926558677736,-1.67565206686059,1,12,False,Inter-Arriaga S.L.,Parada simple
+3609,3609,Cascante. Av. Constitución 1,41.9963395819881,-1.67878722523938,1,26,False,Inter-Arriaga S.L.,Parada simple
+5215,5215,Murchante. NA-3840 km 4 3 A,42.0275487887402,-1.65650658932437,1,26,False,Inter-Arriaga S.L.,Parada simple
+3772,3772,Cascante. NA-3042 km 0 1 A,41.9925842514259,-1.67568977064031,1,14,False,Inter-Arriaga S.L.,Parada simple
+3770,3770,Ablitas. Av. Cascante F/8,41.9757200771777,-1.6414350602791,1,14,False,Inter-Arriaga S.L.,Parada simple
+3617,3617,Tarazona. Av. Ciudad de Teruel (Est. Tarazonica),41.9052892994938,-1.72082313211438,1,14,False,Inter-Arriaga S.L.,Parada simple
+4412,4412,Tarazona. Av. Navarra 52,41.9108818306962,-1.723720225773,1,6,False,Inter-Arriaga S.L.,Parada simple
+5084,5084,Novallas. c/ Lázaro Fortunez (F/marquesina),41.9474053441047,-1.69754365843314,1,6,False,Inter-Arriaga S.L.,Parada simple
+5139,5139,Monteagudo. Av. de San Agustín 5,41.9615860000201,-1.69160891144237,1,6,False,Inter-Arriaga S.L.,Parada simple
+5089,5089,Tulebras. c/ Ctra. de Barillas F/3,41.9763737324763,-1.67660506352029,1,6,False,Inter-Arriaga S.L.,Parada simple
+4072,4072,Barillas. NA-3042 km 1 96 D,41.9708368051447,-1.66201981918847,1,6,False,Inter-Arriaga S.L.,Parada simple
+4071,4071,Barillas. NA-3042 km 1 96 A,41.9708905493721,-1.6619945565364,1,8,False,Inter-Arriaga S.L.,Parada simple
+5090,5090,Tulebras. c/ Ctra. de Barillas 5,41.9762009812342,-1.67646380198636,1,8,False,Inter-Arriaga S.L.,Parada simple
+5138,5138,Monteagudo. Av. de San Agustín 6,41.9615327988,-1.69168240271632,1,8,False,Inter-Arriaga S.L.,Parada simple
+5083,5083,Novallas. c/ Lázaro Fortunez (marquesina),41.9473738984947,-1.69766000996558,1,8,False,Inter-Arriaga S.L.,Parada simple
+4411,4411,Tarazona. Av. Navarra 53,41.9108738981189,-1.72381684450214,1,8,False,Inter-Arriaga S.L.,Parada simple
+3577,3577,Zaragoza. Estación Bus. Av. Navarra 80,41.6587656683683,-0.91118838733082,1,23,False,Inter-Arriaga S.L.,Parada simple
+3576,3576,Mallén. Av. Europa 2,41.9019255868111,-1.42072755746842,1,4,False,Inter-Arriaga S.L.,Parada simple
+3575,3575,Mallén. Av. Europa 1,41.901954752043,-1.42088356314899,1,3,False,Inter-Arriaga S.L.,Parada simple
+5211,5211,Zaragoza. Paseo María Agustín 7,41.6503998858252,-0.88916813465899,1,1,False,Inter-Arriaga S.L.,Parada simple
+5212,5212,Zaragoza. San Juan Bosco 66 (Hospital),41.6435336728325,-0.90490348386216,1,1,False,Inter-Arriaga S.L.,Parada simple
+5322,5322,Pamplona/Iruña. C/ Irunlarrea (Consultas Ppe. Via*,42.8066048236695,-1.66744688401339,4,9,False,La Burundesa S.A.U,Multi-ruta
+3245,3245,Irurtzun. San Martin k. 23-A,42.9181613688188,-1.82650779821503,5,25,True,La Burundesa S.A.U,Multi-ruta
+3180,3180,Uharte Arakil. Geltokiko k. PROX. 2,42.9197357992764,-1.9703940316416,4,19,False,La Burundesa S.A.U,Multi-ruta
+3183,3183,Lakuntza. Mikel Arregi k. 1,42.922241452548,-2.02296986586252,4,19,False,La Burundesa S.A.U,Multi-ruta
+3185,3185,Arbizu. Iruñeko etorb. 30,42.9162590160901,-2.03853869505062,4,19,False,La Burundesa S.A.U,Multi-ruta
+3195,3195,Altsasu/Alsasua. Isidoro Melero k. 25,42.8962731679864,-2.1727323992317,5,50,True,La Burundesa S.A.U,Multi-ruta
+3197,3197,Olazti/Olazagutía. Ziordia k. 1,42.8759379738651,-2.20034552293801,4,38,False,La Burundesa S.A.U,Multi-ruta
+5147,5147,Etxarri Aranatz. Burundabide etorb. 6,42.9055913933888,-2.06531735067453,4,18,False,La Burundesa S.A.U,Multi-ruta
+3187,3187,Etxarri Aranatz. Burundabide etorb. F/ 6,42.9057239464056,-2.06469683599352,4,19,False,La Burundesa S.A.U,Multi-ruta
+3243,3243,Arbizu. Iruñeko etorb. F/32 (F/polikiroldegia),42.9159196434772,-2.03887477169628,4,19,False,La Burundesa S.A.U,Multi-ruta
+3184,3184,Lakuntza. Mikel Arregi k. F/1,42.9221694213343,-2.02297100415795,4,19,False,La Burundesa S.A.U,Multi-ruta
+3179,3179,Uharte Arakil. Geltokiko k. PROX. F/2,42.9196267996954,-1.97026389624851,4,19,False,La Burundesa S.A.U,Multi-ruta
+3246,3246,Irurtzun. San Martin k. 20,42.9182189046655,-1.82684976934984,5,23,True,La Burundesa S.A.U,Multi-ruta
+5206,5206,Pamplona/Iruña. C/ Irunlarrea (Consultas Ppe. Via*,42.8064551768331,-1.66739534360823,4,14,True,La Burundesa S.A.U,Multi-ruta
+3194,3194,Urdiain. Bentalde k. 3,42.8903423032142,-2.13549576831075,3,10,False,La Burundesa S.A.U,Multi-ruta
+5199,5199,Iturmendi. C/ Estafeta F/29,42.8901644178434,-2.11816532017695,3,10,False,La Burundesa S.A.U,Multi-ruta
+5201,5201,Bakaiku. Bideberrialde F/22,42.8921138512097,-2.10249791681554,4,11,False,La Burundesa S.A.U,Multi-ruta
+4144,4144,Arruazu. Kaleaundi F/2,42.9220957871627,-1.99872027787712,3,10,False,La Burundesa S.A.U,Multi-ruta
+3177,3177,Irañeta. NA-2410 km 10 5 A,42.9190903797318,-1.94221086181378,3,20,False,La Burundesa S.A.U,Multi-ruta
+5202,5202,Ihabar. Nagusia k. F/28,42.9183962730101,-1.91771236366727,3,10,False,La Burundesa S.A.U,Multi-ruta
+5219,5219,Hiriberri Arakil. Calle Arriba/Goialde kalea 17A,42.9155147878521,-1.89608362781336,3,10,False,La Burundesa S.A.U,Multi-ruta
+4380,4380,Zuhatzu. NA-2410 km 4 5 D (F/int. NA-7068),42.9087573369684,-1.87737870846995,3,10,False,La Burundesa S.A.U,Multi-ruta
+3172,3172,Etxarren. NA-2410  km 2 5 D,42.9137896633307,-1.85721942855277,3,10,False,La Burundesa S.A.U,Multi-ruta
+5045,5045,Vitoria-Gasteiz. Bus Geltokia. Euskaltzaindia enp.,42.8594272326068,-2.68474298385968,2,36,False,La Burundesa S.A.U,Parada simple
+5077,5077,Vitoria-Gasteiz. Zaramaga k. 1 (Boulevard),42.8612321463708,-2.66839825252212,1,1,False,La Burundesa S.A.U,Parada simple
+3200,3200,Ziordia. NA-2410 km 36 2 A,42.868933533465,-2.22408890634687,2,9,False,La Burundesa S.A.U,Parada simple
+5047,5047,Vitoria-Gasteiz. Álava k. F/31,42.8369797442746,-2.67448347416124,1,1,False,La Burundesa S.A.U,Parada simple
+5049,5049,Vitoria-Gasteiz. Gasteiz etorb. 18,42.8439615411149,-2.68236572048922,1,1,False,La Burundesa S.A.U,Parada simple
+3214,3214,Agurain/Salvatierra. Fueros k. 18,42.8493616353553,-2.38806507628053,2,3,False,La Burundesa S.A.U,Parada simple
+3199,3199,Ziordia. NA-2410 km 36 2 D,42.8688519124535,-2.22400423059411,2,7,False,La Burundesa S.A.U,Parada simple
+5319,5319,Ziordia. c/ Santa María 87,42.870229964003,-2.22966323556611,1,3,False,La Burundesa S.A.U,Parada simple
+3171,3171,Etxarren. NA-2410  km 2 5 A,42.9139430884165,-1.85725333540628,2,10,False,La Burundesa S.A.U,Parada simple
+4379,4379,Zuhatzu. NA-2410 km 4 5 A (int. NA-7068),42.9088826401918,-1.87711584333802,2,10,False,La Burundesa S.A.U,Parada simple
+5218,5218,Hiriberri Arakil. Calle Arriba/Goialde kalea 8,42.915520955794,-1.89578947594152,2,10,False,La Burundesa S.A.U,Parada simple
+3175,3175,Ihabar. Nagusia k. 28,42.9184573314953,-1.91772087258397,2,10,False,La Burundesa S.A.U,Parada simple
+3181,3181,Arruazu. A-10 km 14 1 A (ramal x NA-7103),42.9239418082615,-2.00089902578726,2,10,False,La Burundesa S.A.U,Parada simple
+5213,5213,Bakaiku. Bideberrialde kalea F/13,42.8922908614217,-2.10210343967368,2,10,False,La Burundesa S.A.U,Parada simple
+5200,5200,Iturmendi. C/ Estafeta 31,42.890270203971,-2.11786988982721,2,10,False,La Burundesa S.A.U,Parada simple
+3193,3193,Urdiain. Bentalde k. 6,42.8904751185989,-2.13638793307117,2,10,False,La Burundesa S.A.U,Parada simple
+5320,5320,Ziordia. c/ Santa María F/87,42.8703187731019,-2.22947848786948,1,2,False,La Burundesa S.A.U,Parada simple
+5233,5233,Satrústegui . c/San Migel F/33,42.910356595195,-1.88696315852433,1,5,True,La Burundesa S.A.U,Parada simple
+5234,5234,Ekai. c/ San Andrés 8,42.9071794259931,-1.86421067804457,1,5,True,La Burundesa S.A.U,Parada simple
+4921,4921,Egiarreta. San Anton k. 25,42.9251608959376,-1.86403965487424,1,5,True,La Burundesa S.A.U,Parada simple
+4923,4923,Etxeberri. Santa Maria k. 27,42.9228425661712,-1.84185648369995,1,5,True,La Burundesa S.A.U,Parada simple
+4915,4915,Urritzola. San Pedro k. 2,42.9007565355509,-1.84152132407409,1,5,True,La Burundesa S.A.U,Parada simple
+4917,4917,Errotz. San Babil k. 1,42.8952229051807,-1.82517626169265,1,5,True,La Burundesa S.A.U,Parada simple
+4919,4919,Izurdiaga. San Juan k. Prox. 14,42.9015062486208,-1.8287776009938,1,5,True,La Burundesa S.A.U,Parada simple
+4925,4925,Aizkorbe. San Andrés k. 12,42.9143552811341,-1.80915546188453,1,5,True,La Burundesa S.A.U,Parada simple
+3259,3259,Lizarraga. San Donato k. F/15,42.8751870676474,-2.0371801963458,1,5,True,La Burundesa S.A.U,Parada simple
+4907,4907,Dorrao/Torrano. Balteikale k. 1,42.8775637035026,-2.01310209962857,1,5,True,La Burundesa S.A.U,Parada simple
+4909,4909,Unanu. Nagusia k. Prox. 12,42.886912623834,-2.01846696275565,1,5,True,La Burundesa S.A.U,Parada simple
+4913,4913,Lizarragabengoa. San Pedro k. 28,42.9185830975193,-2.0482522872646,1,5,True,La Burundesa S.A.U,Parada simple
+3213,3213,Agurain/Salvatierra. Fueros k. 23,42.8493698951925,-2.3883946045006,1,3,False,La Burundesa S.A.U,Parada simple
+5053,5053,Vitoria-Gasteiz. Madrid k. F/30,42.8527387309606,-2.65727611671946,1,2,False,La Burundesa S.A.U,Parada simple

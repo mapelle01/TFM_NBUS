@@ -1,0 +1,112 @@
+year,route_id,route_long_name,agency_name,num_paradas_unicas
+2022,300,Pamplona/Iruña-Soria (por carretera),Conda S.A.,20
+2022,301,Pamplona/Iruña-Soria (por autopista),Conda S.A.,10
+2022,320,Tafalla-Pamplona/Iruña (autopista),Inter-Arriaga S.L.,10
+2022,321,Olite/Erriberri - Pamplona/Iruña (autopista),Inter-Arriaga S.L.,15
+2022,322,Tafalla - Pamplona/Iruña (carretera),Inter-Arriaga S.L.,26
+2022,323,Marcilla -Tafalla,Inter-Arriaga S.L.,19
+2022,324,Figarol - Tafalla,Inter-Arriaga S.L.,21
+2022,325,Rada - Tafalla,Inter-Arriaga S.L.,10
+2022,326,Mendigorría - Tafalla,Inter-Arriaga S.L.,5
+2022,327,Miranda de Arga - Tafalla,Inter-Arriaga S.L.,10
+2022,328,Urbano Tafalla,Inter-Arriaga S.L.,5
+2022,329,Echagüe - Tafalla,Inter-Arriaga S.L.,9
+2022,330,Olleta - Tafalla,Inter-Arriaga S.L.,6
+2022,331,Uzquita - Tafalla,Inter-Arriaga S.L.,10
+2022,332,Amatriain - Tafalla,Inter-Arriaga S.L.,8
+2022,333,Ujué/Uxue - Tafalla,Inter-Arriaga S.L.,5
+2022,334,Puente la Reina/Gares - Campanas,Inter-Arriaga S.L.,13
+2022,335,Lerín - Larraga,Inter-Arriaga S.L.,2
+2023,300,Pamplona/Iruña-Soria (por carretera),Conda S.A.,20
+2023,301,Pamplona/Iruña-Soria (por autopista),Conda S.A.,10
+2023,320,Tafalla-Pamplona/Iruña (autopista),Inter-Arriaga S.L.,10
+2023,321,Olite/Erriberri - Pamplona/Iruña (autopista),Inter-Arriaga S.L.,15
+2023,322,Tafalla - Pamplona/Iruña (carretera),Inter-Arriaga S.L.,26
+2023,323,Marcilla -Tafalla,Inter-Arriaga S.L.,19
+2023,324,Figarol - Tafalla,Inter-Arriaga S.L.,21
+2023,325,Rada - Tafalla,Inter-Arriaga S.L.,10
+2023,326,Mendigorría - Tafalla,Inter-Arriaga S.L.,5
+2023,327,Miranda de Arga - Tafalla,Inter-Arriaga S.L.,10
+2023,328,Urbano Tafalla,Inter-Arriaga S.L.,5
+2023,329,Echagüe - Tafalla,Inter-Arriaga S.L.,9
+2023,330,Olleta - Tafalla,Inter-Arriaga S.L.,6
+2023,331,Uzquita - Tafalla,Inter-Arriaga S.L.,10
+2023,332,Amatriain - Tafalla,Inter-Arriaga S.L.,8
+2023,333,Ujué/Uxue - Tafalla,Inter-Arriaga S.L.,5
+2023,334,Puente la Reina/Gares - Campanas,Inter-Arriaga S.L.,13
+2023,335,Lerín - Larraga,Inter-Arriaga S.L.,2
+2023,350,Pamplona/Iruña-Tudela-Zaragoza,Inter-Arriaga S.L.,37
+2023,351,Tarazona - Tudela,Inter-Arriaga S.L.,19
+2023,352,Baños Fitero - Tudela,Inter-Arriaga S.L.,13
+2023,353,Cortes-Tudela,Inter-Arriaga S.L.,14
+2023,354,Villafranca - Tudela,Inter-Arriaga S.L.,15
+2023,355,Milagro-Tudela,Inter-Arriaga S.L.,9
+2023,370,Pamplona/Iruña - Vitoria-Gasteiz (Paradas),La Burundesa S.A.U,39
+2023,371,Pamplona/Iruña - Vitoria-Gasteiz (Semidirecto),La Burundesa S.A.U,24
+2023,372,Pamplona/Iruña - Ziordia,La Burundesa S.A.U,35
+2023,373,Arakil - Irurtzun,La Burundesa S.A.U,10
+2023,374,Ergoiena - Altsasu/Alsasua,La Burundesa S.A.U,5
+2024,300,Pamplona/Iruña-Soria (por carretera),Conda S.A.,20
+2024,301,Pamplona/Iruña-Soria (por autopista),Conda S.A.,10
+2024,320,Tafalla-Pamplona/Iruña (autopista),Inter-Arriaga S.L.,10
+2024,321,Olite/Erriberri - Pamplona/Iruña (autopista),Inter-Arriaga S.L.,15
+2024,322,Tafalla - Pamplona/Iruña (carretera),Inter-Arriaga S.L.,26
+2024,323,Marcilla -Tafalla,Inter-Arriaga S.L.,19
+2024,324,Figarol - Tafalla,Inter-Arriaga S.L.,21
+2024,325,Rada - Tafalla,Inter-Arriaga S.L.,10
+2024,326,Mendigorría - Tafalla,Inter-Arriaga S.L.,5
+2024,327,Miranda de Arga - Tafalla,Inter-Arriaga S.L.,10
+2024,328,Urbano Tafalla,Inter-Arriaga S.L.,5
+2024,329,Echagüe - Tafalla,Inter-Arriaga S.L.,9
+2024,330,Olleta - Tafalla,Inter-Arriaga S.L.,6
+2024,331,Uzquita - Tafalla,Inter-Arriaga S.L.,10
+2024,332,Amatriain - Tafalla,Inter-Arriaga S.L.,8
+2024,333,Ujué/Uxue - Tafalla,Inter-Arriaga S.L.,5
+2024,334,Puente la Reina/Gares - Campanas,Inter-Arriaga S.L.,13
+2024,335,Lerín - Larraga,Inter-Arriaga S.L.,2
+2024,336,Línea San Fermín NAV002,Inter-Arriaga S.L.,16
+2024,350,Pamplona/Iruña-Tudela-Zaragoza,Inter-Arriaga S.L.,37
+2024,351,Tarazona - Tudela,Inter-Arriaga S.L.,19
+2024,352,Baños Fitero - Tudela,Inter-Arriaga S.L.,13
+2024,353,Cortes-Tudela,Inter-Arriaga S.L.,14
+2024,354,Villafranca - Tudela,Inter-Arriaga S.L.,15
+2024,355,Milagro-Tudela,Inter-Arriaga S.L.,9
+2024,356,Línea San Fermín NAV003,Inter-Arriaga S.L.,2
+2024,370,Pamplona/Iruña - Vitoria-Gasteiz (Paradas),La Burundesa S.A.U,39
+2024,371,Pamplona/Iruña - Vitoria-Gasteiz (Semidirecto),La Burundesa S.A.U,24
+2024,372,Pamplona/Iruña - Ziordia,La Burundesa S.A.U,35
+2024,373,Arakil - Irurtzun,La Burundesa S.A.U,10
+2024,374,Ergoiena - Altsasu/Alsasua,La Burundesa S.A.U,5
+2024,375,Pamplona/Iruña - Olazti/Olazagutía,La Burundesa S.A.U,25
+2025,300,Pamplona/Iruña-Soria (por carretera),Conda S.A.,20
+2025,301,Pamplona/Iruña-Soria (por autopista),Conda S.A.,10
+2025,320,Tafalla-Pamplona/Iruña (autopista),Inter-Arriaga S.L.,10
+2025,321,Olite/Erriberri - Pamplona/Iruña (autopista),Inter-Arriaga S.L.,15
+2025,322,Tafalla - Pamplona/Iruña (carretera),Inter-Arriaga S.L.,26
+2025,323,Marcilla -Tafalla,Inter-Arriaga S.L.,19
+2025,324,Figarol - Tafalla,Inter-Arriaga S.L.,21
+2025,325,Rada - Tafalla,Inter-Arriaga S.L.,10
+2025,326,Mendigorría - Tafalla,Inter-Arriaga S.L.,5
+2025,327,Miranda de Arga - Tafalla,Inter-Arriaga S.L.,10
+2025,328,Urbano Tafalla,Inter-Arriaga S.L.,5
+2025,329,Echagüe - Tafalla,Inter-Arriaga S.L.,9
+2025,330,Olleta - Tafalla,Inter-Arriaga S.L.,6
+2025,331,Uzquita - Tafalla,Inter-Arriaga S.L.,10
+2025,332,Amatriain - Tafalla,Inter-Arriaga S.L.,8
+2025,333,Ujué/Uxue - Tafalla,Inter-Arriaga S.L.,5
+2025,334,Puente la Reina/Gares - Campanas,Inter-Arriaga S.L.,13
+2025,335,Lerín - Larraga,Inter-Arriaga S.L.,2
+2025,336,Línea San Fermín NAV002,Inter-Arriaga S.L.,16
+2025,350,Pamplona/Iruña-Tudela-Zaragoza,Inter-Arriaga S.L.,37
+2025,351,Tarazona - Tudela,Inter-Arriaga S.L.,19
+2025,352,Baños Fitero - Tudela,Inter-Arriaga S.L.,13
+2025,353,Cortes-Tudela,Inter-Arriaga S.L.,14
+2025,354,Villafranca - Tudela,Inter-Arriaga S.L.,15
+2025,355,Milagro-Tudela,Inter-Arriaga S.L.,9
+2025,356,Línea San Fermín NAV003,Inter-Arriaga S.L.,2
+2025,370,Pamplona/Iruña - Vitoria-Gasteiz (Paradas),La Burundesa S.A.U,39
+2025,371,Pamplona/Iruña - Vitoria-Gasteiz (Semidirecto),La Burundesa S.A.U,24
+2025,372,Pamplona/Iruña - Ziordia,La Burundesa S.A.U,35
+2025,373,Arakil - Irurtzun,La Burundesa S.A.U,10
+2025,374,Ergoiena - Altsasu/Alsasua,La Burundesa S.A.U,5
+2025,375,Pamplona/Iruña - Olazti/Olazagutía,La Burundesa S.A.U,25
