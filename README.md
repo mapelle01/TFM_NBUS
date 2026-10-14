@@ -25,7 +25,7 @@ permite consultar todos estos datos en lenguaje natural.
 
 ## 🗂️ Datos
 
-- **GTFS de NBUS** (`04_Proyecto_Fuente/gtfs_data/`): 33 rutas, 223 paradas, 493 viajes (*trips*), 3.585 registros de horarios y trazados de recorrido, operados por **Conda S.A.**, **Inter-Arriaga S.L.** y **La Burundesa S.A.U.**
+- **GTFS de NBUS** (`04_Proyecto_Fuente/gtfs_data/`): 32 rutas, 222 paradas, 492 viajes (*trips*), 3.584 registros de horarios y trazados de recorrido, operados por **Conda S.A.**, **Inter-Arriaga S.L.** y **La Burundesa S.A.U.**
 - **Datos externos** (`datos_externos/`): población municipal de Navarra y geometría (GeoJSON) de los municipios, para cruzar servicio ofertado con territorio y habitantes.
 
 ---
