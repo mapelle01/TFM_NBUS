@@ -1,6 +1,6 @@
 # 🚌 TFM NBUS — Análisis inteligente de la red de autobuses interurbanos de Navarra
 
-> Trabajo de Fin de Máster — Máster en Data Science, Business Analytics y Big Data
+> Trabajo de Fin de Máster — Máster en Big Data, Data Science y Business Analytics · Universidad Complutense de Madrid (UCM)
 > Autor: **Marc Pérez Lleixà**
 
 Análisis integral de la red de autobuses interurbanos de Navarra (**NBUS**) a
@@ -103,7 +103,7 @@ streamlit run app_nbus.py
 
 ## 👤 Autor
 
-**Marc Pérez Lleixà** — Trabajo de Fin de Máster, Máster en Data Science, Business Analytics y Big Data.
+**Marc Pérez Lleixà** — Trabajo de Fin de Máster, Máster en Big Data, Data Science y Business Analytics, Universidad Complutense de Madrid (UCM).
 
 ## 📄 Licencia
 
